@@ -1,4 +1,83 @@
 Clojure-Resources
 =================
 
-Compilation of useful links and resources for learning Clojure and ClojureScript
+This is a compilation of links and resources for learning about **Clojure**, **ClojureScript**, **Om** and more broadly, **LISP**. It is still in very early stages. Please feel free to add resources by issuing a pull request (preferred) or by getting in touch. For now it is mostly a dump of my bookmarks, but I intend to go through them one by one and write a quick note about each one (or delete those that I don't find useful after all). Totally unordered at this point.
+
+## Clojure
+* **[Clojure Homepage](http://clojure.org)**
+* **[Clojure Google Group](https://groups.google.com/forum/#!forum/clojure)**
+* **[Inspecting the content of channels in core.async](http://tgk.github.io/2013/10/inspect-core-async-channels.html)**
+* **[Monger, a Clojure client for MongoDB](http://clojuremongodb.info/articles/getting_started.html)**
+* **[Overtone(https://github.com/overtone/overtone)**: make music from your REPL
+* **[Live Coding. Live Synths. Live Music.](http://meta-ex.com)**: music made with CLojure and Overtone
+* **[The Clojure Toolbox](http://www.clojure-toolbox.com)**: a categorised directory of libraries and tools for Clojure
+* **[Clojure Copter - Control for the AR Parrot Drone](https://github.com/gigasquid/clj-drone)**
+* **[ckirkendall/fresnel](https://github.com/ckirkendall/fresnel)**: A library for composing lenses and working with complex state objects
+* **[Clojure for the Brave and True (a Book for Beginners)](http://www.braveclojure.com)**: great intro, I particularly enjoyed the introduction to Emacs in conjunction with Clojure
+* **[Clojure Users - Linkedin Group](https://www.linkedin.com/groups?home=&gid=1058217)**
+
+## ClojureScript
+* **[clojure/clojurescript - GitHub](https://github.com/clojure/clojurescript)**
+* **[ClojureScript Google Group](https://groups.google.com/forum/#!forum/clojurescript)**
+* **[ClojureScript-in-ClojureScript REPL](http://clojurescript.net)**
+* **[ClojureScript One](http://clojurescriptone.com)**
+* **[Translations from JavaScript](http://www.polymer-project.org)**: plenty of JavaScript code snippets and their translation to ClojureScript
+* **[Calling javascript functions from clojurescript](http://odyssomay.github.io/2011/10/10/calling-javascript-functions-from-clojurescript.html)**
+* **[Specljs and ClojureScript](http://speclj.com/specljs)**
+
+## Om
+* **[swannodette/om - GitHub](https://github.com/swannodette/om)**
+* **[A slice of React, Clojurescript and Om25 December 2013](http://www.lexicallyscoped.com/2013/12/25/slice-of-reactjs-and-cljs.html)**
+* **[Om: Enhancing Facebook's React with Immutability](http://www.infoq.com/news/2014/01/om-react)**
+
+## Tooling
+* **[Leiningen](http://leiningen.org)**
+* **[overtone/emacs-live - GitHub](https://github.com/overtone/emacs-live)**
+* **[clojure-emacs/cider - GitHub](https://github.com/clojure-emacs/cider)**
+* **[Clojure with Emacs](http://clojure-doc.org/articles/tutorials/emacs.html)**
+
+## Blog posts
+* **[Do Things: a Clojure Language Crash Course](http://www.braveclojure.com/do-things/)**
+* **[Relevance Blog](http://thinkrelevance.com/blog)**
+* **[My Clojure Workflow, Reloaded - Stuart Sierra](http://thinkrelevance.com/blog/2013/06/04/clojure-workflow-reloaded)**
+* **[A Closer Look at Transit](http://swannodette.github.io/2014/07/23/a-closer-look-at-transit/)**
+* **[WHY I'M PRODUCTIVE IN CLOJURE](http://yogthos.net/#/blog/49-Why+I'm+Productive+in+Clojure)**
+* **[Ten reasons to use Clojure/ClojureScript on your next web dev project - Adam Bard](http://adambard.com/blog/ten-reasons-to-use-clojure/)**
+* **[Learn X in Y minutes Where X=clojure](http://learnxinyminutes.com/docs/clojure/)**
+* **[A simple Clojurescript app - Adam Bard](http://adambard.com/blog/a-simple-clojurescript-app/)**
+* **[Distributed Communicating Sequential Processes (CSP) - David Pollak](http://blog.goodstuff.im/intro_dragonmark)**
+* **[Inspecting the content of channels in core.async](http://tgk.github.io/2013/10/inspect-core-async-channels.html)**
+* **[Why Clojure will win](http://michaelochurch.wordpress.com/2013/08/07/why-clojure-will-win/)**
+* **[Building Clojure Services at Scale](http://blog.josephwilk.net/clojure/building-clojure-services-at-scale.html)**
+
+## Videos
+* **[Simple Made Easy - Rich Hickey](http://www.infoq.com/presentations/Simple-Made-Easy)**: one of my favorite presentations. Like overall. Strongly receommended.
+* **[Hammock Driven Development - Rich Hickey](https://www.youtube.com/watch?v=f84n5oFoZBc)**
+* **[Clojure - Rich Hickey](http://www.infoq.com/presentations/hickey-clojure)**
+* **[Are we there yet? - Rich Hickey](http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey)**
+* **[Reducers - A Library and Model for Collection Processing - Rich Hickey ](http://www.infoq.com/presentations/Clojure-Reducers)**
+* **[Design, Composition and Performance - Rich Hickey](http://www.infoq.com/presentations/Design-Composition-Performance)**
+* **[Clojure core.async - Rich Hickey](http://www.infoq.com/presentations/clojure-core-async)**
+* **[Core.async - Communicating Sequential Processes using Channels, in Clojure - Rich Hickey](Core.async - Communicating Sequential Processes using Channels, in Clojure)**
+* **[ClojureScript: Lisp's Revenge - David Nolen](https://www.youtube.com/watch?v=MTawgp3SKy8)**
+* **[Activity Stream Processing in Clojure - Travis Vachon](https://www.youtube.com/watch?v=0l7Va3-wXeI)**
+* **[Expert to Expert: Rich Hickey and Brian Beckman - Inside Clojure](https://www.youtube.com/watch?v=wASCH_gPnDw)**
+* **[ClojureScript - Better Semantics at Low Low Prices! - David Nolen](http://www.infoq.com/presentations/ClojureScript-Optimizations)**
+* **[Pete Hunt - The Secrets of React's Virtual DOM (FutureJS 2014)](https://www.youtube.com/watch?v=-DX3vJiqxm4)**
+* **[Clojure in the Large - Stuart Sierra](http://www.infoq.com/presentations/Clojure-Large-scale-patterns-techniques)**
+* **[Quick Intro to Live Programming with Overtone](https://vimeo.com/22798433)**
+
+## Slides
+* **[Mastering time with Clojure core.async](http://sssslide.com/speakerdeck.com/hlship/mastering-time-with-clojure-core-dot-async)**
+
+
+## Podcasts
+* **[Cognicast](http://thinkrelevance.com/blog/tags/podcast)**
+* **[Functional Geekery](http://www.functionalgeekery.com)**
+
+## LISP
+* **[Structure and Interpretation of Computer Programs](http://mitpress.mit.edu/sicp/)**
+* **[The Nature of Lisp](http://www.defmacro.org/ramblings/lisp.html)**
+* **[Structure and Interpretation of Computer Programs - Lecture Videos](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/)**: recorded in 1986
+* **[]()**
+
