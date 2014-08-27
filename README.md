@@ -25,6 +25,12 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **[Calling javascript functions from clojurescript](http://odyssomay.github.io/2011/10/10/calling-javascript-functions-from-clojurescript.html)**
 * **[Specljs and ClojureScript](http://speclj.com/specljs)**
 
+## core.async
+* **[clojure/core.async on GitHub](https://github.com/clojure/core.async/)**
+* **[Clojure core.async API Reference](https://clojure.github.io/core.async/)**
+* **[Combining & Controlling Channels with core.async's merge and mix](http://yobriefca.se/blog/2014/06/01/combining-and-controlling-channels-with-core-dot-asyncs-merge-and-mix/)**
+
+
 ## Om
 * **[swannodette/om - GitHub](https://github.com/swannodette/om)**
 * **[A slice of React, Clojurescript and Om25 December 2013](http://www.lexicallyscoped.com/2013/12/25/slice-of-reactjs-and-cljs.html)**
