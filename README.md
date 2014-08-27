@@ -80,5 +80,6 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **[Structure and Interpretation of Computer Programs](http://mitpress.mit.edu/sicp/)**
 * **[The Nature of Lisp](http://www.defmacro.org/ramblings/lisp.html)**
 * **[Structure and Interpretation of Computer Programs - Lecture Videos](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/)**: recorded in 1986
+* **[Lispcast.com](http://www.lispcast.com)**: Eric Normand's page, you should definitely subscribe to his weekly **Clojure Gazette** here 
 * **[]()**
 
