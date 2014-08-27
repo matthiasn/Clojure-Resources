@@ -8,7 +8,7 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **[Clojure Google Group](https://groups.google.com/forum/#!forum/clojure)**
 * **[Inspecting the content of channels in core.async](http://tgk.github.io/2013/10/inspect-core-async-channels.html)**
 * **[Monger, a Clojure client for MongoDB](http://clojuremongodb.info/articles/getting_started.html)**
-* **[Overtone(https://github.com/overtone/overtone)**: make music from your REPL
+* **[Overtone](https://github.com/overtone/overtone)**: make music from your REPL
 * **[Live Coding. Live Synths. Live Music.](http://meta-ex.com)**: music made with CLojure and Overtone
 * **[The Clojure Toolbox](http://www.clojure-toolbox.com)**: a categorised directory of libraries and tools for Clojure
 * **[Clojure Copter - Control for the AR Parrot Drone](https://github.com/gigasquid/clj-drone)**
