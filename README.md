@@ -66,6 +66,7 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **[Pete Hunt - The Secrets of React's Virtual DOM (FutureJS 2014)](https://www.youtube.com/watch?v=-DX3vJiqxm4)**
 * **[Clojure in the Large - Stuart Sierra](http://www.infoq.com/presentations/Clojure-Large-scale-patterns-techniques)**
 * **[Quick Intro to Live Programming with Overtone](https://vimeo.com/22798433)**
+* **[EuroClojure 2014 videos](https://vimeo.com/channels/781458)**: 18 recorded presentations, plenty of interesting stuff
 
 ## Slides
 * **[Mastering time with Clojure core.async](http://sssslide.com/speakerdeck.com/hlship/mastering-time-with-clojure-core-dot-async)**
