@@ -16,6 +16,7 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **[Clojure for the Brave and True (a Book for Beginners)](http://www.braveclojure.com)**: great intro, I particularly enjoyed the introduction to Emacs in conjunction with Clojure
 * **[Clojure Users - Linkedin Group](https://www.linkedin.com/groups?home=&gid=1058217)**
 * **[clj-time/clj-time on GitHub](https://github.com/clj-time/clj-time)**: wrapper for Joda Time
+* **[Clojure compilation](http://clojure.org/compilation)**: helped me learn more about ahead-of-time compialtion (AOT)
 
 ## ClojureScript
 * **[clojure/clojurescript - GitHub](https://github.com/clojure/clojurescript)**
@@ -28,11 +29,12 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 
 ## core.async
 * **[clojure/core.async on GitHub](https://github.com/clojure/core.async/)**
-* **[Clojure core.async API Reference](https://clojure.github.io/core.async/)**
+* **[Clojure core.async API Reference](https://clojure.github.io/core.async/)**: descriptions oftentimes too short to fully understand how to use the constructs in my opinion, but at least a starting point
 * **[Combining & Controlling Channels with core.async's merge and mix](http://yobriefca.se/blog/2014/06/01/combining-and-controlling-channels-with-core-dot-asyncs-merge-and-mix/)**
 * **[Mastering Time with Clojure core.async](http://sssslide.com/speakerdeck.com/hlship/mastering-time-with-clojure-core-dot-async)**
 * **[core.async and Blocking IO](http://martintrojer.github.io/clojure/2013/07/07/coreasync-and-blocking-io/)**: article discussing blocking IO and how to deal with it and why non-blocking is preferable. Great, concise read.
 * **[Code Read of core.async Timeouts](http://hueypetersen.com/posts/2013/07/10/code-read-of-core-async-timeouts/)**
+* **[Publish and Subscribe with core.async's pub and sub](http://yobriefca.se/blog/2014/06/04/publish-and-subscribe-with-core-dot-asyncs-pub-and-sub/)**: useful and well-written introduction to the topic of Publish-Subscribe. I like the idea of a channel-driven **[Rube Goldberg machine](https://en.wikipedia.org/wiki/Rube_Goldberg_machine)**. Can we have crazy animations with that as well?
 
 ## Om
 * **[swannodette/om - GitHub](https://github.com/swannodette/om)**
