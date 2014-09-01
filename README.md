@@ -16,7 +16,8 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **[Clojure for the Brave and True (a Book for Beginners)](http://www.braveclojure.com)**: great intro, I particularly enjoyed the introduction to Emacs in conjunction with Clojure
 * **[Clojure Users - Linkedin Group](https://www.linkedin.com/groups?home=&gid=1058217)**
 * **[clj-time/clj-time on GitHub](https://github.com/clj-time/clj-time)**: wrapper for Joda Time
-* **[Clojure compilation](http://clojure.org/compilation)**: helped me learn more about ahead-of-time compialtion (AOT)
+* **[Clojure compilation](http://clojure.org/compilation)**: helped me learn more about ahead-of-time compilation (AOT).
+* **[xsc/pandect on GitHub](https://github.com/xsc/pandect)**: Fast and easy-to-use Message Digest, Checksum and HMAC library. I use it in the Clojure version of my **[BirdWatch](https://github.com/matthiasn/BirdWatch)** project & it works like a charm.
 
 ## ClojureScript
 * **[clojure/clojurescript - GitHub](https://github.com/clojure/clojurescript)**
