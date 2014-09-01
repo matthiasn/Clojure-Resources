@@ -43,10 +43,11 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **[Om: Enhancing Facebook's React with Immutability](http://www.infoq.com/news/2014/01/om-react)**
 
 ## Tooling
-* **[Leiningen](http://leiningen.org)**
+* **[Leiningen](http://leiningen.org)**: for automating Clojure projects without setting your hair on fire (from the project website). Hard to imagine using Clojure without it.
 * **[overtone/emacs-live - GitHub](https://github.com/overtone/emacs-live)**
 * **[clojure-emacs/cider - GitHub](https://github.com/clojure-emacs/cider)**
 * **[Clojure with Emacs](http://clojure-doc.org/articles/tutorials/emacs.html)**
+* **[LightTable](http://www.lighttable.com)**: IDE for Clojure and ClojureScript. Great for people who (still) struggle with Emacs.
 
 ## Blog posts
 * **[Do Things: a Clojure Language Crash Course](http://www.braveclojure.com/do-things/)**
