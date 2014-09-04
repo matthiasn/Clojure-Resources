@@ -44,6 +44,8 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 
 ## Tooling
 * **[Leiningen](http://leiningen.org)**: for automating Clojure projects without setting your hair on fire (from the project website). Hard to imagine using Clojure without it.
+* **[How Clojure Babies are Made: What Leiningen Is](http://www.flyingmachinestudios.com/programming/how-clojure-babies-are-made-what-leiningen-is/)**: fun read, helps understand what Leiningen really is
+* **[How Clojure Babies Are Made: Understanding lein run](http://www.flyingmachinestudios.com/programming/how-clojure-babies-are-made-lein-run/)**: this article helps you understand how gruesome a place the world would be without Leiningen
 * **[overtone/emacs-live - GitHub](https://github.com/overtone/emacs-live)**
 * **[clojure-emacs/cider - GitHub](https://github.com/clojure-emacs/cider)**
 * **[Clojure with Emacs](http://clojure-doc.org/articles/tutorials/emacs.html)**
