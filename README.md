@@ -21,6 +21,7 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **[Clojure Documentation](http://clojure-doc.org)**: community-driven documentation project
 * **[Introduction to Clojure](http://clojure-doc.org/articles/tutorials/introduction.html)**: great introduction to the Clojure basics (from the project above). With this, it should be possible to learn the language itself on a rainy afternoon.
 * **[clojure/data.priority-map on GitHub](https://github.com/clojure/data.priority-map)**: implementation of a priority map in Clojure. Useful when you want a sorted map that is sorted based on the values, not the keys.
+* **[damballa/parkour on GitHub](https://github.com/damballa/parkour)**: Hadoop MapReduce in idiomatic Clojure.
 
 ## ClojureScript
 * **[clojure/clojurescript - GitHub](https://github.com/clojure/clojurescript)**
