@@ -20,6 +20,7 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **[xsc/pandect on GitHub](https://github.com/xsc/pandect)**: Fast and easy-to-use Message Digest, Checksum and HMAC library. I use it in the Clojure version of my **[BirdWatch](https://github.com/matthiasn/BirdWatch)** project & it works like a charm.
 * **[Clojure Documentation](http://clojure-doc.org)**: community-driven documentation project
 * **[Introduction to Clojure](http://clojure-doc.org/articles/tutorials/introduction.html)**: great introduction to the Clojure basics (from the project above). With this, it should be possible to learn the language itself on a rainy afternoon.
+* **[clojure/data.priority-map on GitHub](https://github.com/clojure/data.priority-map)**: implementation of a priority map in Clojure. Useful when you want a sorted map that is sorted based on the values, not the keys.
 
 ## ClojureScript
 * **[clojure/clojurescript - GitHub](https://github.com/clojure/clojurescript)**
@@ -29,6 +30,7 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **[Translations from JavaScript](http://www.polymer-project.org)**: plenty of JavaScript code snippets and their translation to ClojureScript
 * **[Calling javascript functions from clojurescript](http://odyssomay.github.io/2011/10/10/calling-javascript-functions-from-clojurescript.html)**
 * **[Specljs and ClojureScript](http://speclj.com/specljs)**
+* **[tailrecursion/cljs-priority-map on GitHub](https://github.com/tailrecursion/cljs-priority-map)**: ClojureScript port of clojure/data.priority-map
 
 ## core.async
 * **[clojure/core.async on GitHub](https://github.com/clojure/core.async/)**
