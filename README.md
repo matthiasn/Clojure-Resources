@@ -22,6 +22,7 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **[Introduction to Clojure](http://clojure-doc.org/articles/tutorials/introduction.html)**: great introduction to the Clojure basics (from the project above). With this, it should be possible to learn the language itself on a rainy afternoon.
 * **[clojure/data.priority-map on GitHub](https://github.com/clojure/data.priority-map)**: implementation of a priority map in Clojure. Useful when you want a sorted map that is sorted based on the values, not the keys.
 * **[damballa/parkour on GitHub](https://github.com/damballa/parkour)**: Hadoop MapReduce in idiomatic Clojure.
+* **[Clojure for the Brave and True - Writing Macros](http://www.braveclojure.com/writing-macros/)**: before this article, I did not know that there was a connection between hair growth potion and macros. Well, I still don't know that. But entertaining nonetheless. And I now understand macros.
 
 ## ClojureScript
 * **[clojure/clojurescript - GitHub](https://github.com/clojure/clojurescript)**
@@ -55,6 +56,7 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **[clojure-emacs/cider - GitHub](https://github.com/clojure-emacs/cider)**
 * **[Clojure with Emacs](http://clojure-doc.org/articles/tutorials/emacs.html)**
 * **[LightTable](http://www.lighttable.com)**: IDE for Clojure and ClojureScript. Great for people who (still) struggle with Emacs.
+* **[Riemann](http://riemann.io)**: Riemann monitors distributed systems. Looks really useful for understanding systems under load.
 
 ## Blog posts
 * **[Do Things: a Clojure Language Crash Course](http://www.braveclojure.com/do-things/)**
