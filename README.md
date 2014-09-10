@@ -6,6 +6,7 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 ## Clojure
 * **[Clojure Homepage](http://clojure.org)**
 * **[Clojure Google Group](https://groups.google.com/forum/#!forum/clojure)**
+* **[Clojure Cheat Sheet](http://grimoire.arrdem.com/)**
 * **[Inspecting the content of channels in core.async](http://tgk.github.io/2013/10/inspect-core-async-channels.html)**
 * **[Monger, a Clojure client for MongoDB](http://clojuremongodb.info/articles/getting_started.html)**
 * **[Overtone](https://github.com/overtone/overtone)**: make music from your REPL
