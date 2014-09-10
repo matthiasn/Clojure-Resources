@@ -34,6 +34,12 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **[Calling javascript functions from clojurescript](http://odyssomay.github.io/2011/10/10/calling-javascript-functions-from-clojurescript.html)**
 * **[Specljs and ClojureScript](http://speclj.com/specljs)**
 * **[tailrecursion/cljs-priority-map on GitHub](https://github.com/tailrecursion/cljs-priority-map)**: ClojureScript port of clojure/data.priority-map
+ 
+## Web development / Om
+* **[swannodette/om - GitHub](https://github.com/swannodette/om)**: a **ClojureScript** library on top of Facebook's **[React library](http://facebook.github.io/react/)**. React and ClojureScript are a great match as React is particularly well suited for rendering **immutable** data structures.
+* **[A slice of React, Clojurescript and Om](http://www.lexicallyscoped.com/2013/12/25/slice-of-reactjs-and-cljs.html)**: article rewriting some React samples using **Om**
+* **[Om: Enhancing Facebook's React with Immutability](http://www.infoq.com/news/2014/01/om-react)**
+* **[ptaoussanis/sente on GitHub](https://github.com/ptaoussanis/sente)**: powerful library for connecting a Clojure server application and a ClojureScript client side application via the WebSockets protocol. I'm using this successfully in my **[BirdWatch](https://github.com/matthiasn/birdwatch/)** project.
 
 ## core.async
 * **[clojure/core.async on GitHub](https://github.com/clojure/core.async/)**
@@ -43,11 +49,6 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **[core.async and Blocking IO](http://martintrojer.github.io/clojure/2013/07/07/coreasync-and-blocking-io/)**: article discussing blocking IO and how to deal with it and why non-blocking is preferable. Great, concise read.
 * **[Code Read of core.async Timeouts](http://hueypetersen.com/posts/2013/07/10/code-read-of-core-async-timeouts/)**
 * **[Publish and Subscribe with core.async's pub and sub](http://yobriefca.se/blog/2014/06/04/publish-and-subscribe-with-core-dot-asyncs-pub-and-sub/)**: useful and well-written introduction to the topic of Publish-Subscribe. I like the idea of a channel-driven **[Rube Goldberg machine](https://en.wikipedia.org/wiki/Rube_Goldberg_machine)**. Can we have crazy animations with that as well?
-
-## Om
-* **[swannodette/om - GitHub](https://github.com/swannodette/om)**
-* **[A slice of React, Clojurescript and Om25 December 2013](http://www.lexicallyscoped.com/2013/12/25/slice-of-reactjs-and-cljs.html)**
-* **[Om: Enhancing Facebook's React with Immutability](http://www.infoq.com/news/2014/01/om-react)**
 
 ## Tooling
 * **[Leiningen](http://leiningen.org)**: for automating Clojure projects without setting your hair on fire (from the project website). Hard to imagine using Clojure without it.
