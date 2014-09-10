@@ -24,6 +24,7 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **[clojure/data.priority-map on GitHub](https://github.com/clojure/data.priority-map)**: implementation of a priority map in Clojure. Useful when you want a sorted map that is sorted based on the values, not the keys.
 * **[damballa/parkour on GitHub](https://github.com/damballa/parkour)**: Hadoop MapReduce in idiomatic Clojure.
 * **[Clojure for the Brave and True - Writing Macros](http://www.braveclojure.com/writing-macros/)**: before this article, I did not know that there was a connection between hair growth potion and macros. Well, I still don't know that. But entertaining nonetheless. And I now understand macros.
+* **[clojure/core.typed](https://github.com/clojure/core.typed)**: An optional type system for Clojure
 
 ## ClojureScript
 * **[clojure/clojurescript - GitHub](https://github.com/clojure/clojurescript)**
