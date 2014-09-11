@@ -61,6 +61,8 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **[Clojure with Emacs](http://clojure-doc.org/articles/tutorials/emacs.html)**
 * **[LightTable](http://www.lighttable.com)**: IDE for Clojure and ClojureScript. Great for people who (still) struggle with Emacs.
 * **[Riemann](http://riemann.io)**: Riemann monitors distributed systems. Looks really useful for understanding systems under load.
+* **[lein-difftest on GitHub](https://github.com/brentonashworth/lein-difftest)**: plugin for pretty test output (like green for success). Hasn't been worked on since 2012, but still working.
+* **[lein-quickie on GitHub](https://github.com/jakepearson/quickie)**: plugin for leiningen that automatically re-runs your tests when it detects file system changes. Works as expected.
 
 ## Distributed computing
 * **[Avout](https://github.com/liebke/avout)**: Distributed State in Clojure, provides a distributed implementation of **[Clojure's Software Transactional Memory (STM)](http://clojure.org/refs)**
