@@ -25,6 +25,7 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **[damballa/parkour on GitHub](https://github.com/damballa/parkour)**: Hadoop MapReduce in idiomatic Clojure.
 * **[Clojure for the Brave and True - Writing Macros](http://www.braveclojure.com/writing-macros/)**: before this article, I did not know that there was a connection between hair growth potion and macros. Well, I still don't know that. But entertaining nonetheless. And I now understand macros.
 * **[clojure/core.typed](https://github.com/clojure/core.typed)**: An optional type system for Clojure
+* **[Organizing Your Project: a Librarian's Tale](http://www.braveclojure.com/organization/)**: useful chapter from the **[Clojure for the Brave and True](http://www.braveclojure.com/)** book about code organization and namespaces. It's a little long but it still covers the topic well enough.
 
 ## ClojureScript
 * **[clojure/clojurescript - GitHub](https://github.com/clojure/clojurescript)**
