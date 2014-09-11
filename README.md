@@ -61,6 +61,9 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **[LightTable](http://www.lighttable.com)**: IDE for Clojure and ClojureScript. Great for people who (still) struggle with Emacs.
 * **[Riemann](http://riemann.io)**: Riemann monitors distributed systems. Looks really useful for understanding systems under load.
 
+## Distributed computing
+* **[Avout](https://github.com/liebke/avout)**: Distributed State in Clojure, provides a distributed implementation of **[Clojure's Software Transactional Memory (STM)](http://clojure.org/refs)**
+
 ## Blog posts
 * **[Do Things: a Clojure Language Crash Course](http://www.braveclojure.com/do-things/)**
 * **[Relevance Blog](http://thinkrelevance.com/blog)**
