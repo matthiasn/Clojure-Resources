@@ -91,6 +91,7 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **[Clojure - Rich Hickey](http://www.infoq.com/presentations/hickey-clojure)**
 * **[Are we there yet? - Rich Hickey](http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey)**
 * **[Reducers - A Library and Model for Collection Processing - Rich Hickey ](http://www.infoq.com/presentations/Clojure-Reducers)**
+* **[The Language of the System - Rich Hickey, Conj 2012](https://www.youtube.com/watch?v=ROor6_NGIWU)**: less about Clojure and more about the design of systems in general. Well worth watching (like all of Rich Hickey's talks, really).
 * **[Design, Composition and Performance - Rich Hickey](http://www.infoq.com/presentations/Design-Composition-Performance)**
 * **[Clojure core.async - Rich Hickey](http://www.infoq.com/presentations/clojure-core-async)**
 * **[Core.async - Communicating Sequential Processes using Channels, in Clojure - Rich Hickey](Core.async - Communicating Sequential Processes using Channels, in Clojure)**
@@ -103,6 +104,7 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **[Quick Intro to Live Programming with Overtone](https://vimeo.com/22798433)**
 * **[EuroClojure 2014 videos](https://vimeo.com/channels/781458)**: 18 recorded presentations, plenty of interesting stuff
 * **[Mobile App Development with ClojureScript and Cordova](http://www.hakkalabs.co/articles/mobile-app-development-clojurescript-cordova#!)**: talk given at the NYC Clojure Users Group in July 2014 about building a hybrid app with **[Apache Cordova](http://cordova.apache.org)**, **ClojureScript**, **cor.async** and **Om**. Looks promising.
+* **[Components Just Enough Structure - Stuart Sierra, Clojure/West 2014]()**: presentation on the Components library. I should try this ASAP as I have been asking myself for a while how to structure applications with Clojure.
 
 ## Slides
 * **[Mastering time with Clojure core.async](http://sssslide.com/speakerdeck.com/hlship/mastering-time-with-clojure-core-dot-async)**
