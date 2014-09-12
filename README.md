@@ -38,10 +38,12 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **[tailrecursion/cljs-priority-map on GitHub](https://github.com/tailrecursion/cljs-priority-map)**: ClojureScript port of clojure/data.priority-map
  
 ## Web development / Om
+* **[weavejester/compojure on GitHub](https://github.com/weavejester/compojure)**: a truly concise routing library for Clojure web applications.
 * **[swannodette/om - GitHub](https://github.com/swannodette/om)**: a **ClojureScript** library on top of Facebook's **[React library](http://facebook.github.io/react/)**. React and ClojureScript are a great match as React is particularly well suited for rendering **immutable** data structures.
 * **[A slice of React, Clojurescript and Om](http://www.lexicallyscoped.com/2013/12/25/slice-of-reactjs-and-cljs.html)**: article rewriting some React samples using **Om**
 * **[Om: Enhancing Facebook's React with Immutability](http://www.infoq.com/news/2014/01/om-react)**
 * **[ptaoussanis/sente on GitHub](https://github.com/ptaoussanis/sente)**: powerful library for connecting a Clojure server application and a ClojureScript client side application via the WebSockets protocol. I'm using this successfully in my **[BirdWatch](https://github.com/matthiasn/birdwatch/)** project.
+* **[Compojure apps, in the style of Sinatra - Adam Bard, 09/2014](http://adambard.com/blog/sinatra-docs-in-clojure/)**: excellent introduction to Compojure, inspired by Sinatra's getting started guide.
 
 ## core.async
 * **[clojure/core.async on GitHub](https://github.com/clojure/core.async/)**
@@ -64,6 +66,7 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **[lein-difftest on GitHub](https://github.com/brentonashworth/lein-difftest)**: plugin for pretty test output (like green for success). Hasn't been worked on since 2012, but still working.
 * **[lein-quickie on GitHub](https://github.com/jakepearson/quickie)**: plugin for leiningen that automatically re-runs your tests when it detects file system changes. Works as expected.
 * **[dsabanin/clj-pid on GitHub](https://github.com/dsabanin/clj-pid)**: Tiny Clojure library to get current process ID and save/read PID files. Useful when deploying an uberjar.
+* **[A Pretty Printer for Clojure](https://clojure.github.io/clojure/doc/clojure/pprint/PrettyPrinting.html)**: always useful when trying to read Clojure's datastructures as a human being.
 
 ## Distributed computing
 * **[Avout](https://github.com/liebke/avout)**: Distributed State in Clojure, provides a distributed implementation of **[Clojure's Software Transactional Memory (STM)](http://clojure.org/refs)**
