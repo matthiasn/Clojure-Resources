@@ -104,7 +104,7 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **[Quick Intro to Live Programming with Overtone](https://vimeo.com/22798433)**
 * **[EuroClojure 2014 videos](https://vimeo.com/channels/781458)**: 18 recorded presentations, plenty of interesting stuff
 * **[Mobile App Development with ClojureScript and Cordova](http://www.hakkalabs.co/articles/mobile-app-development-clojurescript-cordova#!)**: talk given at the NYC Clojure Users Group in July 2014 about building a hybrid app with **[Apache Cordova](http://cordova.apache.org)**, **ClojureScript**, **cor.async** and **Om**. Looks promising.
-* **[Components Just Enough Structure - Stuart Sierra, Clojure/West 2014]()**: presentation on the Components library. I should try this ASAP as I have been asking myself for a while how to structure applications with Clojure.
+* **[Components Just Enough Structure - Stuart Sierra, Clojure/West 2014](https://www.youtube.com/watch?v=13cmHf_kt-Q)**: presentation on the Components library. I should try this ASAP as I have been asking myself for a while how to structure applications with Clojure.
 
 ## Slides
 * **[Mastering time with Clojure core.async](http://sssslide.com/speakerdeck.com/hlship/mastering-time-with-clojure-core-dot-async)**
