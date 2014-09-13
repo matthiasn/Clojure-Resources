@@ -24,6 +24,7 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **[Clojure for the Brave and True - Writing Macros](http://www.braveclojure.com/writing-macros/)**: before this article, I did not know that there was a connection between hair growth potion and macros. Well, I still don't know that. But entertaining nonetheless. And I now understand macros.
 * **[clojure/core.typed](https://github.com/clojure/core.typed)**: An optional type system for Clojure
 * **[Organizing Your Project: a Librarian's Tale](http://www.braveclojure.com/organization/)**: useful chapter from the **[Clojure for the Brave and True](http://www.braveclojure.com/)** book about code organization and namespaces. It's a little long but it still covers the topic well enough.
+* **[stuartsierra/component on GitHub](https://github.com/stuartsierra/component)**: okay, so this one had been on my list for a while. Started watching Stuart's video a few times. Now I finally got around to using it. And all I can say is you really have to take a closer look at this. It makes structuring a larger application so much more straightforward. And the earlier you do, the more pain you save later. Rewriting an existing application is doable, but somewhat painful.
 
 ## Learn the language
 * **[Clojure from the ground up](http://aphyr.com/tags/Clojure-from-the-ground-up)**: very encouraging series of articles for beginners. I also really appreciate the introduction.
@@ -107,7 +108,7 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **[Quick Intro to Live Programming with Overtone](https://vimeo.com/22798433)**
 * **[EuroClojure 2014 videos](https://vimeo.com/channels/781458)**: 18 recorded presentations, plenty of interesting stuff
 * **[Mobile App Development with ClojureScript and Cordova](http://www.hakkalabs.co/articles/mobile-app-development-clojurescript-cordova#!)**: talk given at the NYC Clojure Users Group in July 2014 about building a hybrid app with **[Apache Cordova](http://cordova.apache.org)**, **ClojureScript**, **cor.async** and **Om**. Looks promising.
-* **[Components Just Enough Structure - Stuart Sierra, Clojure/West 2014](https://www.youtube.com/watch?v=13cmHf_kt-Q)**: presentation on the Components library. I should try this ASAP as I have been asking myself for a while how to structure applications with Clojure.
+* **[Components Just Enough Structure - Stuart Sierra, Clojure/West 2014](https://www.youtube.com/watch?v=13cmHf_kt-Q)**: presentation on the Components library.
 
 ## Slides
 * **[Mastering time with Clojure core.async](http://sssslide.com/speakerdeck.com/hlship/mastering-time-with-clojure-core-dot-async)**
