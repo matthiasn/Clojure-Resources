@@ -14,18 +14,21 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **[The Clojure Toolbox](http://www.clojure-toolbox.com)**: a categorised directory of libraries and tools for Clojure
 * **[Clojure Copter - Control for the AR Parrot Drone](https://github.com/gigasquid/clj-drone)**
 * **[ckirkendall/fresnel](https://github.com/ckirkendall/fresnel)**: A library for composing lenses and working with complex state objects
-* **[Clojure for the Brave and True (a Book for Beginners)](http://www.braveclojure.com)**: great intro, I particularly enjoyed the introduction to Emacs in conjunction with Clojure
 * **[Clojure Users - Linkedin Group](https://www.linkedin.com/groups?home=&gid=1058217)**
 * **[clj-time/clj-time on GitHub](https://github.com/clj-time/clj-time)**: wrapper for Joda Time
 * **[Clojure compilation](http://clojure.org/compilation)**: helped me learn more about ahead-of-time compilation (AOT).
 * **[xsc/pandect on GitHub](https://github.com/xsc/pandect)**: Fast and easy-to-use Message Digest, Checksum and HMAC library. I use it in the Clojure version of my **[BirdWatch](https://github.com/matthiasn/BirdWatch)** project & it works like a charm.
 * **[Clojure Documentation](http://clojure-doc.org)**: community-driven documentation project
-* **[Introduction to Clojure](http://clojure-doc.org/articles/tutorials/introduction.html)**: great introduction to the Clojure basics (from the project above). With this, it should be possible to learn the language itself on a rainy afternoon.
 * **[clojure/data.priority-map on GitHub](https://github.com/clojure/data.priority-map)**: implementation of a priority map in Clojure. Useful when you want a sorted map that is sorted based on the values, not the keys.
 * **[damballa/parkour on GitHub](https://github.com/damballa/parkour)**: Hadoop MapReduce in idiomatic Clojure.
 * **[Clojure for the Brave and True - Writing Macros](http://www.braveclojure.com/writing-macros/)**: before this article, I did not know that there was a connection between hair growth potion and macros. Well, I still don't know that. But entertaining nonetheless. And I now understand macros.
 * **[clojure/core.typed](https://github.com/clojure/core.typed)**: An optional type system for Clojure
 * **[Organizing Your Project: a Librarian's Tale](http://www.braveclojure.com/organization/)**: useful chapter from the **[Clojure for the Brave and True](http://www.braveclojure.com/)** book about code organization and namespaces. It's a little long but it still covers the topic well enough.
+
+## Learn the language
+* **[Clojure from the ground up](http://aphyr.com/tags/Clojure-from-the-ground-up)**: very encouraging series of articles for beginners. I also really appreciate the introduction.
+* **[Clojure for the Brave and True (a Book for Beginners)](http://www.braveclojure.com)**: great intro, I particularly enjoyed the introduction to Emacs in conjunction with Clojure
+* **[Introduction to Clojure](http://clojure-doc.org/articles/tutorials/introduction.html)**: short introduction to the Clojure basics. With this, it should be possible to learn the language itself on a rainy afternoon.
 
 ## ClojureScript
 * **[clojure/clojurescript - GitHub](https://github.com/clojure/clojurescript)**
