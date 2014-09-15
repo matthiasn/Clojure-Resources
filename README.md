@@ -25,6 +25,7 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **[clojure/core.typed](https://github.com/clojure/core.typed)**: An optional type system for Clojure
 * **[Organizing Your Project: a Librarian's Tale](http://www.braveclojure.com/organization/)**: useful chapter from the **[Clojure for the Brave and True](http://www.braveclojure.com/)** book about code organization and namespaces. It's a little long but it still covers the topic well enough.
 * **[stuartsierra/component on GitHub](https://github.com/stuartsierra/component)**: okay, so this one had been on my list for a while. Started watching Stuart's video a few times. Now I finally got around to using it. And all I can say is you really have to take a closer look at this. It makes structuring a larger application so much more straightforward. And the earlier you do, the more pain you save later. Rewriting an existing application is doable, but somewhat painful.
+* [**Clojure Gazette**](http://www.clojuregazette.com): Weekly Newsletter to inspire Clojure programmers.
 
 ## Learn the language
 * **[Clojure from the ground up](http://aphyr.com/tags/Clojure-from-the-ground-up)**: very encouraging series of articles for beginners. I also really appreciate the introduction.
@@ -109,6 +110,7 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **[EuroClojure 2014 videos](https://vimeo.com/channels/781458)**: 18 recorded presentations, plenty of interesting stuff
 * **[Mobile App Development with ClojureScript and Cordova](http://www.hakkalabs.co/articles/mobile-app-development-clojurescript-cordova#!)**: talk given at the NYC Clojure Users Group in July 2014 about building a hybrid app with **[Apache Cordova](http://cordova.apache.org)**, **ClojureScript**, **cor.async** and **Om**. Looks promising.
 * **[Components Just Enough Structure - Stuart Sierra, Clojure/West 2014](https://www.youtube.com/watch?v=13cmHf_kt-Q)**: presentation on the Components library.
+* [**LispCast Videos**](http://www.purelyfunctional.tv/): For-pay video courses teaching Clojure.
 
 ## Slides
 * **[Mastering time with Clojure core.async](http://sssslide.com/speakerdeck.com/hlship/mastering-time-with-clojure-core-dot-async)**
@@ -122,6 +124,5 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **[Structure and Interpretation of Computer Programs](http://mitpress.mit.edu/sicp/)**
 * **[The Nature of Lisp](http://www.defmacro.org/ramblings/lisp.html)**
 * **[Structure and Interpretation of Computer Programs - Lecture Videos](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/)**: recorded in 1986
-* **[Lispcast.com](http://www.lispcast.com)**: Eric Normand's page, you should definitely subscribe to his weekly **Clojure Gazette** here 
-* **[]()**
+* **[Lispcast.com](http://www.lispcast.com)**: Eric Normand's blog 
 
