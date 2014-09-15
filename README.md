@@ -43,7 +43,7 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 
 ## Structuring an application
 * **[stuartsierra/component on GitHub](https://github.com/stuartsierra/component)**: okay, so this one had been on my list for a while. Started watching Stuart's video a few times. Now I finally got around to using it. And all I can say is you really have to take a closer look at this. It makes structuring a larger application so much more straightforward. And the earlier you do, the more pain you save later. Rewriting an existing application is doable, but somewhat painful.
-* [danielsz/system on GitHub](https://github.com/danielsz/system)**: set of readymade components on top of the component library above.
+* **[danielsz/system on GitHub](https://github.com/danielsz/system)**: set of readymade components on top of the component library above.
 * **[palletops/leaven on GitHub](https://github.com/palletops/leaven)**: lightweight component model for both Clojure and ClojureScript.
 * **[palletops/bakery on GitHub](https://github.com/palletops/bakery)**: A library of components for leaven, the component library above.
  
