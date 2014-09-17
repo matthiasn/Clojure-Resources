@@ -8,24 +8,26 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **[Clojure Google Group](https://groups.google.com/forum/#!forum/clojure)**
 * **[Clojure Cheat Sheet](http://grimoire.arrdem.com/)**
 * **[Inspecting the content of channels in core.async](http://tgk.github.io/2013/10/inspect-core-async-channels.html)**
-* **[Monger, a Clojure client for MongoDB](http://clojuremongodb.info/articles/getting_started.html)**
-* **[Overtone](https://github.com/overtone/overtone)**: make music from your REPL
-* **[Live Coding. Live Synths. Live Music.](http://meta-ex.com)**: music made with CLojure and Overtone
-* **[The Clojure Toolbox](http://www.clojure-toolbox.com)**: a categorised directory of libraries and tools for Clojure
 * **[Clojure Copter - Control for the AR Parrot Drone](https://github.com/gigasquid/clj-drone)**
-* **[ckirkendall/fresnel](https://github.com/ckirkendall/fresnel)**: A library for composing lenses and working with complex state objects
 * **[Clojure Users - Linkedin Group](https://www.linkedin.com/groups?home=&gid=1058217)**
-* **[clj-time/clj-time on GitHub](https://github.com/clj-time/clj-time)**: wrapper for Joda Time
 * **[Clojure compilation](http://clojure.org/compilation)**: helped me learn more about ahead-of-time compilation (AOT).
 * **[xsc/pandect on GitHub](https://github.com/xsc/pandect)**: Fast and easy-to-use Message Digest, Checksum and HMAC library. I use it in the Clojure version of my **[BirdWatch](https://github.com/matthiasn/BirdWatch)** project & it works like a charm.
 * **[Clojure Documentation](http://clojure-doc.org)**: community-driven documentation project
-* **[clojure/data.priority-map on GitHub](https://github.com/clojure/data.priority-map)**: implementation of a priority map in Clojure. Useful when you want a sorted map that is sorted based on the values, not the keys.
-* **[damballa/parkour on GitHub](https://github.com/damballa/parkour)**: Hadoop MapReduce in idiomatic Clojure.
 * **[Clojure for the Brave and True - Writing Macros](http://www.braveclojure.com/writing-macros/)**: before this article, I did not know that there was a connection between hair growth potion and macros. Well, I still don't know that. But entertaining nonetheless. And I now understand macros.
-* **[clojure/core.typed](https://github.com/clojure/core.typed)**: An optional type system for Clojure
-* **[Organizing Your Project: a Librarian's Tale](http://www.braveclojure.com/organization/)**: useful chapter from the **[Clojure for the Brave and True](http://www.braveclojure.com/)** book about code organization and namespaces. It's a little long but it still covers the topic well enough.
 * [**Clojure Gazette**](http://www.clojuregazette.com): Weekly Newsletter to inspire Clojure programmers.
 * **[SICP distilled](https://www.kickstarter.com/projects/1751759988/sicp-distilled)**: Kickstarter project aimed at translating **SICP** (see in the last section) into Clojure. This looks really cool, you should go fund it while you still can. I have done the same.
+
+## Clojure libraries
+* **[clj-time/clj-time on GitHub](https://github.com/clj-time/clj-time)**: wrapper for Joda Time
+* **[clojure/data.priority-map on GitHub](https://github.com/clojure/data.priority-map)**: implementation of a priority map in Clojure. Useful when you want a sorted map that is sorted based on the values, not the keys.
+* **[damballa/parkour on GitHub](https://github.com/damballa/parkour)**: Hadoop MapReduce in idiomatic Clojure.
+* **[Monger, a Clojure client for MongoDB](http://clojuremongodb.info/articles/getting_started.html)**
+* **[Overtone](https://github.com/overtone/overtone)**: make music from your REPL
+* **[Live Coding. Live Synths. Live Music.](http://meta-ex.com)**: music made with Clojure and Overtone
+* **[The Clojure Toolbox](http://www.clojure-toolbox.com)**: a categorised directory of libraries and tools for Clojure
+* **[aengelberg/loco on GitHub](https://github.com/aengelberg/loco)**: A Constraint Programming library for Clojure. I can see how this can be useful in an application.
+* **[clojure/core.typed](https://github.com/clojure/core.typed)**: An optional type system for Clojure
+* **[ckirkendall/fresnel](https://github.com/ckirkendall/fresnel)**: A library for composing lenses and working with complex state objects
 
 ## Learn the language
 * **[Clojure from the ground up](http://aphyr.com/tags/Clojure-from-the-ground-up)**: very encouraging series of articles for beginners. I also really appreciate the introduction.
@@ -43,6 +45,7 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **[tailrecursion/cljs-priority-map on GitHub](https://github.com/tailrecursion/cljs-priority-map)**: ClojureScript port of clojure/data.priority-map
 
 ## Structuring an application
+* **[Organizing Your Project: a Librarian's Tale](http://www.braveclojure.com/organization/)**: useful chapter from the **[Clojure for the Brave and True](http://www.braveclojure.com/)** book about code organization and namespaces. It's a little long but it still covers the topic well enough.
 * **[stuartsierra/component on GitHub](https://github.com/stuartsierra/component)**: okay, so this one had been on my list for a while. Started watching Stuart's video a few times. Now I finally got around to using it. And all I can say is you really have to take a closer look at this. It makes structuring a larger application so much more straightforward. And the earlier you do, the more pain you save later. Rewriting an existing application is doable, but somewhat painful.
 * **[danielsz/system on GitHub](https://github.com/danielsz/system)**: set of readymade components on top of the component library above.
 * **[palletops/leaven on GitHub](https://github.com/palletops/leaven)**: lightweight component model for both Clojure and ClojureScript.
@@ -95,6 +98,7 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **[Inspecting the content of channels in core.async](http://tgk.github.io/2013/10/inspect-core-async-channels.html)**
 * **[Why Clojure will win](http://michaelochurch.wordpress.com/2013/08/07/why-clojure-will-win/)**
 * **[Building Clojure Services at Scale](http://blog.josephwilk.net/clojure/building-clojure-services-at-scale.html)**
+* **[Appointment scheduling in Clojure with Loco](http://programming-puzzler.blogspot.de/2014/03/appointment-scheduling-in-clojure-with.html)**: introduction to contraints programming with Loco (above in the libraries section) using scheduling as an example.
 
 ## Videos
 * **[Simple Made Easy - Rich Hickey](http://www.infoq.com/presentations/Simple-Made-Easy)**: one of my favorite presentations. Like overall. Strongly receommended.
@@ -121,10 +125,12 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 ## Slides
 * **[Mastering time with Clojure core.async](http://sssslide.com/speakerdeck.com/hlship/mastering-time-with-clojure-core-dot-async)**
 
-
 ## Podcasts
 * **[Cognicast](http://thinkrelevance.com/blog/tags/podcast)**
 * **[Functional Geekery](http://www.functionalgeekery.com)**
+
+## Comparisons with other languages
+* **[Clojure vs Scala (12/2013)](http://programming-puzzler.blogspot.de/2013/12/clojure-vs-scala.html)**: comparing Clojure and Scala. I agree that Clojure guides you towards simpler solutions.
 
 ## LISP
 * **[Structure and Interpretation of Computer Programs](http://mitpress.mit.edu/sicp/)**
