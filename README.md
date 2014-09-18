@@ -100,6 +100,7 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **[Why Clojure will win](http://michaelochurch.wordpress.com/2013/08/07/why-clojure-will-win/)**
 * **[Building Clojure Services at Scale](http://blog.josephwilk.net/clojure/building-clojure-services-at-scale.html)**
 * **[Appointment scheduling in Clojure with Loco](http://programming-puzzler.blogspot.de/2014/03/appointment-scheduling-in-clojure-with.html)**: introduction to contraints programming with Loco (above in the libraries section) using scheduling as an example.
+* **[My Top Clojure Articles - Adam Bard (07/2014)](http://adambard.com/blog/greatest-clojure-hits/)**: haven't read them yet, but I like his other articles, so these are on my reading list. Looks like interesting stuff.
 
 ## Videos
 * **[Simple Made Easy - Rich Hickey](http://www.infoq.com/presentations/Simple-Made-Easy)**: one of my favorite presentations. Like overall. Strongly receommended.
