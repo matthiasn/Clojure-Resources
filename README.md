@@ -33,6 +33,7 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **[Clojure from the ground up](http://aphyr.com/tags/Clojure-from-the-ground-up)**: very encouraging series of articles for beginners. I also really appreciate the introduction.
 * **[Clojure for the Brave and True (a Book for Beginners)](http://www.braveclojure.com)**: great intro, I particularly enjoyed the introduction to Emacs in conjunction with Clojure
 * **[Introduction to Clojure](http://clojure-doc.org/articles/tutorials/introduction.html)**: short introduction to the Clojure basics. With this, it should be possible to learn the language itself on a rainy afternoon.
+* **[Clojure.core: Batteries (almost) included - Adam Bard (06/2013)](http://adambard.com/blog/clojure-batteries-included/)**:  a guided tour through some of the many libraries available from the Clojure team that don't come distributed with Clojure. 
 
 ## ClojureScript
 * **[clojure/clojurescript - GitHub](https://github.com/clojure/clojurescript)**
@@ -131,6 +132,8 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 
 ## Comparisons with other languages
 * **[Clojure vs Scala (12/2013)](http://programming-puzzler.blogspot.de/2013/12/clojure-vs-scala.html)**: comparing Clojure and Scala. I agree that Clojure guides you towards simpler solutions.
+* **[Clojure's core.typed vs Haskell - A Project Euler showdown (09/2013)](http://adambard.com/blog/core-typed-vs-haskell/)**: comparing the approaches to two mathematical problems in Haskell and Clojure / core.typed.
+* **[MODERN CONCURRENCY: ERLANG, SCALA, GO, CLOJURE (2013)](http://kachayev.github.io/talks/kharkivpy%230/#/)**: slideshow comparing approaches to concurrency in different languages. NOTE: this appears to **predate core.async**. But **CSP-style channels** are mentioned for **golang**, so the same applies to Clojure with core.async in addition to STM and **agents**.
 
 ## LISP
 * **[Structure and Interpretation of Computer Programs](http://mitpress.mit.edu/sicp/)**
