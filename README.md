@@ -128,8 +128,8 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **[Mastering time with Clojure core.async](http://sssslide.com/speakerdeck.com/hlship/mastering-time-with-clojure-core-dot-async)**
 
 ## Podcasts
-* **[Cognicast](http://thinkrelevance.com/blog/tags/podcast)**
-* **[Functional Geekery](http://www.functionalgeekery.com)**
+* **[The Cognicast](http://blog.cognitect.com/cognicast/)**: podcast by **[Cognitect](http://cognitect.com)**, the guys between Clojure.
+* **[Functional Geekery](http://www.functionalgeekery.com)**: podcast on all things functional programming, sometimes featuring Clojure as well.
 
 ## Comparisons with other languages
 * **[Clojure vs Scala (12/2013)](http://programming-puzzler.blogspot.de/2013/12/clojure-vs-scala.html)**: comparing Clojure and Scala. I agree that Clojure guides you towards simpler solutions.
