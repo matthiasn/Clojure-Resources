@@ -28,6 +28,7 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **[aengelberg/loco on GitHub](https://github.com/aengelberg/loco)**: A Constraint Programming library for Clojure. I can see how this can be useful in an application.
 * **[clojure/core.typed](https://github.com/clojure/core.typed)**: An optional type system for Clojure
 * **[ckirkendall/fresnel](https://github.com/ckirkendall/fresnel)**: A library for composing lenses and working with complex state objects
+* **[MichaelDrogalis/dire on GitHub](https://github.com/MichaelDrogalis/dire)**: Erlang-style supervisor error handling for Clojure. I have not tried it yet, but it does look like an interesting concept, particularly after having worked with supervisors within the actor model for a while. Has anyone used this in a real application?
 
 ## Learn the language
 * **[Clojure from the ground up](http://aphyr.com/tags/Clojure-from-the-ground-up)**: very encouraging series of articles for beginners. I also really appreciate the introduction.
@@ -51,6 +52,7 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **[danielsz/system on GitHub](https://github.com/danielsz/system)**: set of readymade components on top of the component library above.
 * **[palletops/leaven on GitHub](https://github.com/palletops/leaven)**: lightweight component model for both Clojure and ClojureScript.
 * **[palletops/bakery on GitHub](https://github.com/palletops/bakery)**: A library of components for leaven, the component library above.
+* **[MichaelDrogalis/onyx on GitHub](https://github.com/MichaelDrogalis/onyx)**: Distributed, fault tolerant data processing for Clojure. It does sound like an interesting and very ambitious concept for building distributed applications. On my list of things to maybe try at some point.
  
 ## Web development / Om
 * **[weavejester/compojure on GitHub](https://github.com/weavejester/compojure)**: a truly concise routing library for Clojure web applications.
