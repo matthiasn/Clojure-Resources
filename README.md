@@ -104,8 +104,10 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **[Building Clojure Services at Scale](http://blog.josephwilk.net/clojure/building-clojure-services-at-scale.html)**
 * **[Appointment scheduling in Clojure with Loco](http://programming-puzzler.blogspot.de/2014/03/appointment-scheduling-in-clojure-with.html)**: introduction to contraints programming with Loco (above in the libraries section) using scheduling as an example.
 * **[My Top Clojure Articles - Adam Bard (07/2014)](http://adambard.com/blog/greatest-clojure-hits/)**: haven't read them yet, but I like his other articles, so these are on my reading list. Looks like interesting stuff.
+* **[Building a System in Clojure - Part 1 (09/2014)](http://matthiasnehlsen.com/blog/2014/09/24/Building-Systems-in-Clojure-1/)**: first of my series of articles about building a system in Clojure.
 
 ## Videos
+* **[Transducers - Rich Hickey (09/2014)](https://www.youtube.com/watch?v=6mTbuzafcII)**: Rich Hickey talks about **Transducers**. Excellent talk as usual, must see.
 * **[Simple Made Easy - Rich Hickey](http://www.infoq.com/presentations/Simple-Made-Easy)**: one of my favorite presentations. Like overall. Strongly receommended.
 * **[Hammock Driven Development - Rich Hickey](https://www.youtube.com/watch?v=f84n5oFoZBc)**
 * **[Clojure - Rich Hickey](http://www.infoq.com/presentations/hickey-clojure)**
