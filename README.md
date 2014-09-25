@@ -71,6 +71,13 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **[Code Read of core.async Timeouts](http://hueypetersen.com/posts/2013/07/10/code-read-of-core-async-timeouts/)**
 * **[Publish and Subscribe with core.async's pub and sub](http://yobriefca.se/blog/2014/06/04/publish-and-subscribe-with-core-dot-asyncs-pub-and-sub/)**: useful and well-written introduction to the topic of Publish-Subscribe. I like the idea of a channel-driven **[Rube Goldberg machine](https://en.wikipedia.org/wiki/Rube_Goldberg_machine)**. Can we have crazy animations with that as well?
 
+## Transducers
+* **[Transducers - Rich Hickey (09/2014)](https://www.youtube.com/watch?v=6mTbuzafcII)**: Rich Hickey talks about **Transducers**. Excellent talk as usual, must see.
+* **[TRANSDUCERS ARE COMING - Rich Hickey (08/2014)](http://blog.cognitect.com/blog/2014/8/6/transducers-are-coming)**: Introduction of the concept by Rich Hickey himself
+* **[Green Eggs and Transducers - Carin Meier (09/2014)](http://gigasquidsoftware.com/blog/2014/09/06/green-eggs-and-transducers/)**: A quick tour of Clojure Transducers with core.async with Dr. Seuss as a guide.
+* **[Understanding Transducers - Elben Shira (09/2014)](http://elbenshira.com/blog/understanding-transducers/)**: "This article explores transducers by ignoring transducers. Instead we will examine two ordinary functions, map and filter. We'll play with them and scrutinize them." 
+* **[richhickey/transducerfun.clj on GitHub](https://gist.github.com/richhickey/b5aefa622180681e1c81)**: Gist with some code
+
 ## Tooling
 * **[Leiningen](http://leiningen.org)**: for automating Clojure projects without setting your hair on fire (from the project website). Hard to imagine using Clojure without it.
 * **[How Clojure Babies are Made: What Leiningen Is](http://www.flyingmachinestudios.com/programming/how-clojure-babies-are-made-what-leiningen-is/)**: fun read, helps understand what Leiningen really is
