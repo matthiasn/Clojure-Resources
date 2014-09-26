@@ -94,6 +94,7 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **[dsabanin/clj-pid on GitHub](https://github.com/dsabanin/clj-pid)**: Tiny Clojure library to get current process ID and save/read PID files. Useful when deploying an uberjar.
 * **[A Pretty Printer for Clojure](https://clojure.github.io/clojure/doc/clojure/pprint/PrettyPrinting.html)**: always useful when trying to read Clojure's datastructures as a human being.
 * **[Dockerizing a Clojure Application - Ryan Neufeld (09/2014)](http://www.rkn.io/2014/09/13/clojure-docker/)**: something I've been wanting to do for a while. Will probably give it a try over the weekend.
+* **[jonase/kibit on GitHub](https://github.com/jonase/kibit)**: There's a function for that! Static code analyzer for Clojure.
 
 ## Distributed computing
 * **[Avout](https://github.com/liebke/avout)**: Distributed State in Clojure, provides a distributed implementation of **[Clojure's Software Transactional Memory (STM)](http://clojure.org/refs)**
