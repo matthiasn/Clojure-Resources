@@ -35,6 +35,8 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **[Clojure for the Brave and True (a Book for Beginners)](http://www.braveclojure.com)**: great intro, I particularly enjoyed the introduction to Emacs in conjunction with Clojure
 * **[Introduction to Clojure](http://clojure-doc.org/articles/tutorials/introduction.html)**: short introduction to the Clojure basics. With this, it should be possible to learn the language itself on a rainy afternoon.
 * **[Clojure.core: Batteries (almost) included - Adam Bard (06/2013)](http://adambard.com/blog/clojure-batteries-included/)**:  a guided tour through some of the many libraries available from the Clojure team that don't come distributed with Clojure. 
+* **[bbatsov/clojure-style-guide on GitHub](https://github.com/bbatsov/clojure-style-guide)**: A community coding style guide for the Clojure programming language
+* **[Library Coding Standards (last edit 04/2014)](http://dev.clojure.org/display/community/Library+Coding+Standards)**: coding standards on http://dev.clojure.org
 
 ## ClojureScript
 * **[clojure/clojurescript - GitHub](https://github.com/clojure/clojurescript)**
