@@ -29,6 +29,7 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **[clojure/core.typed](https://github.com/clojure/core.typed)**: An optional type system for Clojure
 * **[ckirkendall/fresnel](https://github.com/ckirkendall/fresnel)**: A library for composing lenses and working with complex state objects
 * **[MichaelDrogalis/dire on GitHub](https://github.com/MichaelDrogalis/dire)**: Erlang-style supervisor error handling for Clojure. I have not tried it yet, but it does look like an interesting concept, particularly after having worked with supervisors within the actor model for a while. Has anyone used this in a real application?
+* **[prismatic/schema on GitHub](https://github.com/Prismatic/schema)**: Clojure(Script) library for declarative data description and validation
 
 ## Learn the language
 * **[Clojure from the ground up](http://aphyr.com/tags/Clojure-from-the-ground-up)**: very encouraging series of articles for beginners. I also really appreciate the introduction.
