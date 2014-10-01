@@ -79,6 +79,7 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **[Green Eggs and Transducers - Carin Meier (09/2014)](http://gigasquidsoftware.com/blog/2014/09/06/green-eggs-and-transducers/)**: A quick tour of Clojure Transducers with core.async with Dr. Seuss as a guide.
 * **[Understanding Transducers - Elben Shira (09/2014)](http://elbenshira.com/blog/understanding-transducers/)**: "This article explores transducers by ignoring transducers. Instead we will examine two ordinary functions, map and filter. We'll play with them and scrutinize them." 
 * **[richhickey/transducerfun.clj on GitHub](https://gist.github.com/richhickey/b5aefa622180681e1c81)**: Gist with some code
+* **[ptaoussanis / transducers.clj - GitHub Gist](https://gist.github.com/ptaoussanis/e537bd8ffdc943bbbce7)**: well-documented code snippet
 
 ## Tooling
 * **[Leiningen](http://leiningen.org)**: for automating Clojure projects without setting your hair on fire (from the project website). Hard to imagine using Clojure without it.
