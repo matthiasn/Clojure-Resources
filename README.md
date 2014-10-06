@@ -101,6 +101,9 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 ## Distributed computing
 * **[Avout](https://github.com/liebke/avout)**: Distributed State in Clojure, provides a distributed implementation of **[Clojure's Software Transactional Memory (STM)](http://clojure.org/refs)**
 
+## Data analysis
+* **[Incanter](https://github.com/incanter/incanter)**: Clojure-based, **R-like statistical computing and graphics environment** for the JVM
+
 ## Blog posts
 * **[Do Things: a Clojure Language Crash Course](http://www.braveclojure.com/do-things/)**
 * **[Relevance Blog](http://thinkrelevance.com/blog)**
