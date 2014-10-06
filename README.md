@@ -105,6 +105,7 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **[Incanter](https://github.com/incanter/incanter)**: Clojure-based, **R-like statistical computing and graphics environment** for the JVM
 
 ## Blog posts
+* **[Planet Clojure](http://planet.clojure.in)**: Planet Clojure is a meta blog that collects posts from the blogs of various Clojure hackers and contributors.
 * **[Do Things: a Clojure Language Crash Course](http://www.braveclojure.com/do-things/)**
 * **[Relevance Blog](http://thinkrelevance.com/blog)**
 * **[My Clojure Workflow, Reloaded - Stuart Sierra](http://thinkrelevance.com/blog/2013/06/04/clojure-workflow-reloaded)**
