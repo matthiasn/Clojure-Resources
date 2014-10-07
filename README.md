@@ -67,6 +67,8 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 
 ## core.async
 * **[clojure/core.async on GitHub](https://github.com/clojure/core.async/)**
+* **[Implementation details of core.async Channels - Rich Hickey (07/2014)](https://vimeo.com/100518968)**
+* **[Slides for the talk above](http://cdn.cognitect.com/presentations/2014/insidechannels.pdf)**
 * **[Clojure core.async API Reference](https://clojure.github.io/core.async/)**: descriptions oftentimes too short to fully understand how to use the constructs in my opinion, but at least a starting point
 * **[Combining & Controlling Channels with core.async's merge and mix](http://yobriefca.se/blog/2014/06/01/combining-and-controlling-channels-with-core-dot-asyncs-merge-and-mix/)**
 * **[Mastering Time with Clojure core.async](http://sssslide.com/speakerdeck.com/hlship/mastering-time-with-clojure-core-dot-async)**
