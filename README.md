@@ -126,12 +126,13 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **["Good Enough" error handling in Clojure - Adam Bard (05/2013)](http://adambard.com/blog/acceptable-error-handling-in-clojure/)**: I enjoyed this article about error handling.
 
 ## Videos
+* **[Talk Transcripts](https://github.com/matthiasn/talk-transcripts)**: transcripts of interesting talks
 * **[Transducers - Rich Hickey (09/2014)](https://www.youtube.com/watch?v=6mTbuzafcII)**: Rich Hickey talks about **Transducers**. Excellent talk as usual, must see.
-* **[Simple Made Easy - Rich Hickey](http://www.infoq.com/presentations/Simple-Made-Easy)**: one of my favorite presentations. Like overall. Strongly receommended.
+* **[Simple Made Easy - Rich Hickey](http://www.infoq.com/presentations/Simple-Made-Easy)**: one of my favorite presentations. Like overall. Strongly recommended.
 * **[Hammock Driven Development - Rich Hickey](https://www.youtube.com/watch?v=f84n5oFoZBc)**
 * **[Clojure - Rich Hickey](http://www.infoq.com/presentations/hickey-clojure)**
 * **[Are we there yet? - Rich Hickey](http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey)**
-* **[Reducers - A Library and Model for Collection Processing - Rich Hickey ](http://www.infoq.com/presentations/Clojure-Reducers)**
+* **[Reducers - A Library and Model for Collection Processing - Rich Hickey](http://www.infoq.com/presentations/Clojure-Reducers)**
 * **[The Language of the System - Rich Hickey, Conj 2012](https://www.youtube.com/watch?v=ROor6_NGIWU)**: less about Clojure and more about the design of systems in general. Well worth watching (like all of Rich Hickey's talks, really).
 * **[Design, Composition and Performance - Rich Hickey](http://www.infoq.com/presentations/Design-Composition-Performance)**
 * **[Clojure core.async - Rich Hickey](http://www.infoq.com/presentations/clojure-core-async)**
