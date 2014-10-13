@@ -126,6 +126,7 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **["Good Enough" error handling in Clojure - Adam Bard (05/2013)](http://adambard.com/blog/acceptable-error-handling-in-clojure/)**: I enjoyed this article about error handling.
 
 ## Videos
+* **[The Functional Final Frontier - David Nolen (10/2014)](http://www.infoq.com/presentations/om-clojurescript-facebook-react)**: David Nolen talks about Om and functional UI programming
 * **[Talk Transcripts](https://github.com/matthiasn/talk-transcripts)**: transcripts of interesting talks
 * **[Transducers - Rich Hickey (09/2014)](https://www.youtube.com/watch?v=6mTbuzafcII)**: Rich Hickey talks about **Transducers**. Excellent talk as usual, must see.
 * **[Simple Made Easy - Rich Hickey](http://www.infoq.com/presentations/Simple-Made-Easy)**: one of my favorite presentations. Like overall. Strongly recommended.
