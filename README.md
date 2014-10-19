@@ -117,16 +117,15 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **[Building a System in Clojure - Part 1 (09/2014)](http://matthiasnehlsen.com/blog/2014/09/24/Building-Systems-in-Clojure-1/)**: first of my series of articles about building a system in Clojure.
 
 ## Videos
-* **[Transducers - Rich Hickey (09/2014)](https://www.youtube.com/watch?v=6mTbuzafcII)**: Rich Hickey talks about **Transducers**. Excellent talk as usual, must see.
-* **[Simple Made Easy - Rich Hickey](http://www.infoq.com/presentations/Simple-Made-Easy)**: one of my favorite presentations. Like overall. Strongly receommended.
-* **[Hammock Driven Development - Rich Hickey](https://www.youtube.com/watch?v=f84n5oFoZBc)**
+* **[Transducers - Rich Hickey (09/2014)](https://www.youtube.com/watch?v=6mTbuzafcII)**: Rich Hickey talks about **Transducers**. Excellent talk as usual, must see. **[transcript](https://github.com/matthiasn/talk-transcripts/blob/master/Hickey_Rich/Transducers.md)**
+* **[Simple Made Easy - Rich Hickey](http://www.infoq.com/presentations/Simple-Made-Easy)**: one of my favorite presentations. Like overall. Highly recommended. **[transcript](https://github.com/matthiasn/talk-transcripts/blob/master/Hickey_Rich/SimpleMadeEasy.md)**
+* **[Hammock Driven Development - Rich Hickey](https://www.youtube.com/watch?v=f84n5oFoZBc)** **[transcript](https://github.com/matthiasn/talk-transcripts/blob/master/Hickey_Rich/HammockDrivenDev.md)**
 * **[Clojure - Rich Hickey](http://www.infoq.com/presentations/hickey-clojure)**
 * **[Are we there yet? - Rich Hickey](http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey)**
-* **[Reducers - A Library and Model for Collection Processing - Rich Hickey ](http://www.infoq.com/presentations/Clojure-Reducers)**
-* **[The Language of the System - Rich Hickey, Conj 2012](https://www.youtube.com/watch?v=ROor6_NGIWU)**: less about Clojure and more about the design of systems in general. Well worth watching (like all of Rich Hickey's talks, really).
+* **[Reducers - A Library and Model for Collection Processing - Rich Hickey ](http://www.infoq.com/presentations/Clojure-Reducers)** **[transcript](https://github.com/matthiasn/talk-transcripts/blob/master/Hickey_Rich/Reducers.md)**
+* **[The Language of the System - Rich Hickey, Conj 2012](https://www.youtube.com/watch?v=ROor6_NGIWU)**: less about Clojure and more about the design of systems in general. Well worth watching (like all of Rich Hickey's talks, really). **[transcript](https://github.com/matthiasn/talk-transcripts/blob/master/Hickey_Rich/LanguageSystem.md)**
 * **[Design, Composition and Performance - Rich Hickey](http://www.infoq.com/presentations/Design-Composition-Performance)**
-* **[Clojure core.async - Rich Hickey](http://www.infoq.com/presentations/clojure-core-async)**
-* **[Core.async - Communicating Sequential Processes using Channels, in Clojure - Rich Hickey](Core.async - Communicating Sequential Processes using Channels, in Clojure)**
+* **[Clojure core.async - Rich Hickey](http://www.infoq.com/presentations/clojure-core-async)** **[transcript](http://www.infoq.com/presentations/clojure-core-async)**
 * **[ClojureScript: Lisp's Revenge - David Nolen](https://www.youtube.com/watch?v=MTawgp3SKy8)**
 * **[Activity Stream Processing in Clojure - Travis Vachon](https://www.youtube.com/watch?v=0l7Va3-wXeI)**
 * **[Expert to Expert: Rich Hickey and Brian Beckman - Inside Clojure](https://www.youtube.com/watch?v=wASCH_gPnDw)**
