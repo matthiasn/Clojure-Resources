@@ -29,6 +29,8 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **[clojure/core.typed](https://github.com/clojure/core.typed)**: An optional type system for Clojure
 * **[ckirkendall/fresnel](https://github.com/ckirkendall/fresnel)**: A library for composing lenses and working with complex state objects
 * **[MichaelDrogalis/dire on GitHub](https://github.com/MichaelDrogalis/dire)**: Erlang-style supervisor error handling for Clojure. I have not tried it yet, but it does look like an interesting concept, particularly after having worked with supervisors within the actor model for a while. Has anyone used this in a real application?
+* **[prismatic/schema on GitHub](https://github.com/Prismatic/schema)**: Clojure(Script) library for declarative data description and validation
+* **[22rbrush/clara-rules on GitHub](https://github.com/rbrush/clara-rules)**: Forward-chaining rules in Clojure
 
 ## Learn the language
 * **[Clojure from the ground up](http://aphyr.com/tags/Clojure-from-the-ground-up)**: very encouraging series of articles for beginners. I also really appreciate the introduction.
@@ -66,6 +68,8 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 
 ## core.async
 * **[clojure/core.async on GitHub](https://github.com/clojure/core.async/)**
+* **[Implementation details of core.async Channels - Rich Hickey (07/2014)](https://vimeo.com/100518968)**
+* **[Slides for the talk above](http://cdn.cognitect.com/presentations/2014/insidechannels.pdf)**
 * **[Clojure core.async API Reference](https://clojure.github.io/core.async/)**: descriptions oftentimes too short to fully understand how to use the constructs in my opinion, but at least a starting point
 * **[Combining & Controlling Channels with core.async's merge and mix](http://yobriefca.se/blog/2014/06/01/combining-and-controlling-channels-with-core-dot-asyncs-merge-and-mix/)**
 * **[Mastering Time with Clojure core.async](http://sssslide.com/speakerdeck.com/hlship/mastering-time-with-clojure-core-dot-async)**
@@ -79,6 +83,7 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **[Green Eggs and Transducers - Carin Meier (09/2014)](http://gigasquidsoftware.com/blog/2014/09/06/green-eggs-and-transducers/)**: A quick tour of Clojure Transducers with core.async with Dr. Seuss as a guide.
 * **[Understanding Transducers - Elben Shira (09/2014)](http://elbenshira.com/blog/understanding-transducers/)**: "This article explores transducers by ignoring transducers. Instead we will examine two ordinary functions, map and filter. We'll play with them and scrutinize them." 
 * **[richhickey/transducerfun.clj on GitHub](https://gist.github.com/richhickey/b5aefa622180681e1c81)**: Gist with some code
+* **[ptaoussanis / transducers.clj - GitHub Gist](https://gist.github.com/ptaoussanis/e537bd8ffdc943bbbce7)**: well-documented code snippet
 
 ## Tooling
 * **[Leiningen](http://leiningen.org)**: for automating Clojure projects without setting your hair on fire (from the project website). Hard to imagine using Clojure without it.
@@ -95,11 +100,16 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **[A Pretty Printer for Clojure](https://clojure.github.io/clojure/doc/clojure/pprint/PrettyPrinting.html)**: always useful when trying to read Clojure's datastructures as a human being.
 * **[Dockerizing a Clojure Application - Ryan Neufeld (09/2014)](http://www.rkn.io/2014/09/13/clojure-docker/)**: something I've been wanting to do for a while. Will probably give it a try over the weekend.
 * **[jonase/kibit on GitHub](https://github.com/jonase/kibit)**: There's a function for that! Static code analyzer for Clojure.
+* **[kovasb/session on GitHub](https://github.com/kovasb/session)**: clojure-based live-coding environment
 
 ## Distributed computing
 * **[Avout](https://github.com/liebke/avout)**: Distributed State in Clojure, provides a distributed implementation of **[Clojure's Software Transactional Memory (STM)](http://clojure.org/refs)**
 
+## Data analysis
+* **[Incanter](https://github.com/incanter/incanter)**: Clojure-based, **R-like statistical computing and graphics environment** for the JVM
+
 ## Blog posts
+* **[Planet Clojure](http://planet.clojure.in)**: Planet Clojure is a meta blog that collects posts from the blogs of various Clojure hackers and contributors.
 * **[Do Things: a Clojure Language Crash Course](http://www.braveclojure.com/do-things/)**
 * **[Relevance Blog](http://thinkrelevance.com/blog)**
 * **[My Clojure Workflow, Reloaded - Stuart Sierra](http://thinkrelevance.com/blog/2013/06/04/clojure-workflow-reloaded)**
@@ -115,8 +125,11 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **[Appointment scheduling in Clojure with Loco](http://programming-puzzler.blogspot.de/2014/03/appointment-scheduling-in-clojure-with.html)**: introduction to contraints programming with Loco (above in the libraries section) using scheduling as an example.
 * **[My Top Clojure Articles - Adam Bard (07/2014)](http://adambard.com/blog/greatest-clojure-hits/)**: haven't read them yet, but I like his other articles, so these are on my reading list. Looks like interesting stuff.
 * **[Building a System in Clojure - Part 1 (09/2014)](http://matthiasnehlsen.com/blog/2014/09/24/Building-Systems-in-Clojure-1/)**: first of my series of articles about building a system in Clojure.
+* **["Good Enough" error handling in Clojure - Adam Bard (05/2013)](http://adambard.com/blog/acceptable-error-handling-in-clojure/)**: I enjoyed this article about error handling.
 
 ## Videos
+* **[Talk Transcripts](https://github.com/matthiasn/talk-transcripts)**: transcripts of interesting talks
+* **[The Functional Final Frontier - David Nolen (10/2014)](http://www.infoq.com/presentations/om-clojurescript-facebook-react)**: David Nolen talks about Om and functional UI programming **[transcript](https://github.com/matthiasn/talk-transcripts/blob/master/Nolen_David/FunctionalFinalFrontier.md)**
 * **[Transducers - Rich Hickey (09/2014)](https://www.youtube.com/watch?v=6mTbuzafcII)**: Rich Hickey talks about **Transducers**. Excellent talk as usual, must see. **[transcript](https://github.com/matthiasn/talk-transcripts/blob/master/Hickey_Rich/Transducers.md)**
 * **[Simple Made Easy - Rich Hickey](http://www.infoq.com/presentations/Simple-Made-Easy)**: one of my favorite presentations. Like overall. Highly recommended. **[transcript](https://github.com/matthiasn/talk-transcripts/blob/master/Hickey_Rich/SimpleMadeEasy.md)**
 * **[Hammock Driven Development - Rich Hickey](https://www.youtube.com/watch?v=f84n5oFoZBc)** **[transcript](https://github.com/matthiasn/talk-transcripts/blob/master/Hickey_Rich/HammockDrivenDev.md)**
