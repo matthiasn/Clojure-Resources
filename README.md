@@ -14,6 +14,7 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **[xsc/pandect on GitHub](https://github.com/xsc/pandect)**: Fast and easy-to-use Message Digest, Checksum and HMAC library. I use it in the Clojure version of my **[BirdWatch](https://github.com/matthiasn/BirdWatch)** project & it works like a charm.
 * **[Clojure Documentation](http://clojure-doc.org)**: community-driven documentation project
 * **[Clojure for the Brave and True - Writing Macros](http://www.braveclojure.com/writing-macros/)**: before this article, I did not know that there was a connection between hair growth potion and macros. Well, I still don't know that. But entertaining nonetheless. And I now understand macros.
+* **[Clojure Distilled](http://yogthos.github.io/ClojureDistilled.html)**: an introduction to core Clojure concepts 
 * [**Clojure Gazette**](http://www.clojuregazette.com): Weekly Newsletter to inspire Clojure programmers.
 * **[SICP distilled](https://www.kickstarter.com/projects/1751759988/sicp-distilled)**: Kickstarter project aimed at translating **SICP** (see in the last section) into Clojure. This looks really cool, you should go fund it while you still can. I have done the same.
 
