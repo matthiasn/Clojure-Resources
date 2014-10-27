@@ -50,6 +50,7 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **[Calling javascript functions from clojurescript](http://odyssomay.github.io/2011/10/10/calling-javascript-functions-from-clojurescript.html)**
 * **[Specljs and ClojureScript](http://speclj.com/specljs)**
 * **[tailrecursion/cljs-priority-map on GitHub](https://github.com/tailrecursion/cljs-priority-map)**: ClojureScript port of clojure/data.priority-map
+* **[mfikes/goby - GitHub](https://github.com/mfikes/goby)**: Develop iOS apps with ClojureScript.
 
 ## Structuring an application
 * **[Organizing Your Project: a Librarian's Tale](http://www.braveclojure.com/organization/)**: useful chapter from the **[Clojure for the Brave and True](http://www.braveclojure.com/)** book about code organization and namespaces. It's a little long but it still covers the topic well enough.
