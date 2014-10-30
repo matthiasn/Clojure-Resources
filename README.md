@@ -32,6 +32,7 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **[MichaelDrogalis/dire on GitHub](https://github.com/MichaelDrogalis/dire)**: Erlang-style supervisor error handling for Clojure. I have not tried it yet, but it does look like an interesting concept, particularly after having worked with supervisors within the actor model for a while. Has anyone used this in a real application?
 * **[prismatic/schema on GitHub](https://github.com/Prismatic/schema)**: Clojure(Script) library for declarative data description and validation
 * **[22rbrush/clara-rules on GitHub](https://github.com/rbrush/clara-rules)**: Forward-chaining rules in Clojure
+* **[ptaoussanis/carmine on GitHub](https://github.com/ptaoussanis/carmine)**: Clojure Redis client & message queue
 
 ## Learn the language
 * **[Clojure from the ground up](http://aphyr.com/tags/Clojure-from-the-ground-up)**: very encouraging series of articles for beginners. I also really appreciate the introduction.
