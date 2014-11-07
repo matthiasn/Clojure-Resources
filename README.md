@@ -1,7 +1,7 @@
 Clojure-Resources
 =================
 
-This is a compilation of links and resources for learning about **Clojure**, **ClojureScript**, **Om** and more broadly, **LISP**. It is still in very early stages. Please feel free to add resources by issuing a pull request (preferred) or by getting in touch. For now it is mostly a dump of my bookmarks, but I intend to go through them one by one and write a quick note about each one (or delete those that I don't find useful after all). Totally unordered at this point.
+This is a compilation of links and resources for learning about **Clojure**, **ClojureScript**, **Om** and more broadly, **LISP**. It is still in very early stages. Please feel free to add resources by issuing a pull request (preferred) or by getting in touch. Please also don't hesitate to suggest a better sort order.
 
 ## Clojure
 * **[Clojure Homepage](http://clojure.org)**
