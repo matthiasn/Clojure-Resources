@@ -33,6 +33,7 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **[prismatic/schema on GitHub](https://github.com/Prismatic/schema)**: Clojure(Script) library for declarative data description and validation
 * **[22rbrush/clara-rules on GitHub](https://github.com/rbrush/clara-rules)**: Forward-chaining rules in Clojure
 * **[ptaoussanis/carmine on GitHub](https://github.com/ptaoussanis/carmine)**: Clojure Redis client & message queue
+* **[killme2008/defun on GitHub](https://github.com/killme2008/defun)**: A macro to define clojure functions with parameter pattern matching just like erlang or elixir. Looks useful.
 
 ## Learn the language
 * **[Clojure from the ground up](http://aphyr.com/tags/Clojure-from-the-ground-up)**: very encouraging series of articles for beginners. I also really appreciate the introduction.
