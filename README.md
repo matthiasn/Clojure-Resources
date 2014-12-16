@@ -84,6 +84,7 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **[Publish and Subscribe with core.async's pub and sub](http://yobriefca.se/blog/2014/06/04/publish-and-subscribe-with-core-dot-asyncs-pub-and-sub/)**: useful and well-written introduction to the topic of Publish-Subscribe. I like the idea of a channel-driven **[Rube Goldberg machine](https://en.wikipedia.org/wiki/Rube_Goldberg_machine)**. Can we have crazy animations with that as well?
 
 ## Transducers
+* **[Inside Transducers - Rich Hickey (11/2014)](https://www.youtube.com/watch?v=4KqUvG8HPYo)**: A talk about transducers and core.async.
 * **[Transducers - Rich Hickey (09/2014)](https://www.youtube.com/watch?v=6mTbuzafcII)**: Rich Hickey talks about **Transducers**. Excellent talk as usual, must see.
 * **[TRANSDUCERS ARE COMING - Rich Hickey (08/2014)](http://blog.cognitect.com/blog/2014/8/6/transducers-are-coming)**: Introduction of the concept by Rich Hickey himself
 * **[Green Eggs and Transducers - Carin Meier (09/2014)](http://gigasquidsoftware.com/blog/2014/09/06/green-eggs-and-transducers/)**: A quick tour of Clojure Transducers with core.async with Dr. Seuss as a guide.
