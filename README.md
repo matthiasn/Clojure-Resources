@@ -61,6 +61,7 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **[palletops/leaven on GitHub](https://github.com/palletops/leaven)**: lightweight component model for both Clojure and ClojureScript.
 * **[palletops/bakery on GitHub](https://github.com/palletops/bakery)**: A library of components for leaven, the component library above.
 * **[MichaelDrogalis/onyx on GitHub](https://github.com/MichaelDrogalis/onyx)**: Distributed, fault tolerant data processing for Clojure. It does sound like an interesting and very ambitious concept for building distributed applications. On my list of things to maybe try at some point.
+* **[Building a System in Clojure](https://leanpub.com/building-a-system-in-clojure)**: book by the maintainer of this repository about structuring complex applications.
  
 ## Web development / Om
 * **[weavejester/compojure on GitHub](https://github.com/weavejester/compojure)**: a truly concise routing library for Clojure web applications.
