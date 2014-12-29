@@ -54,6 +54,7 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **[tailrecursion/cljs-priority-map on GitHub](https://github.com/tailrecursion/cljs-priority-map)**: ClojureScript port of clojure/data.priority-map
 * **[mfikes/goby - GitHub](https://github.com/mfikes/goby)**: Develop iOS apps with ClojureScript
 * **[swannodette/mies - GitHub](https://github.com/swannodette/mies)**: Minimal ClojureScript project template
+* **[ClojureScript: JavaScript Interop - 09/2014](http://www.spacjer.com/blog/2014/09/12/clojurescript-javascript-interop/)**: Blog post about interacting with JavaScript
 
 ## Structuring an application
 * **[Organizing Your Project: a Librarian's Tale](http://www.braveclojure.com/organization/)**: useful chapter from the **[Clojure for the Brave and True](http://www.braveclojure.com/)** book about code organization and namespaces. It's a little long but it still covers the topic well enough.
