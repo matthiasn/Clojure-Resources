@@ -55,7 +55,7 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **[mfikes/goby - GitHub](https://github.com/mfikes/goby)**: Develop iOS apps with ClojureScript
 * **[swannodette/mies - GitHub](https://github.com/swannodette/mies)**: Minimal ClojureScript project template
 * **[ClojureScript: JavaScript Interop - 09/2014](http://www.spacjer.com/blog/2014/09/12/clojurescript-javascript-interop/)**: Blog post about interacting with JavaScript
-* **[andrewmcveigh/cljs-time - GitHub](https://github.com/andrewmcveigh/cljs-time): A clj-time inspired date library for clojurescript
+* **[andrewmcveigh/cljs-time - GitHub](https://github.com/andrewmcveigh/cljs-time)**: A clj-time inspired date library for clojurescript
 
 
 ## Structuring an application
