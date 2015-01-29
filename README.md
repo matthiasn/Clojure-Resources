@@ -57,7 +57,6 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **[ClojureScript: JavaScript Interop - 09/2014](http://www.spacjer.com/blog/2014/09/12/clojurescript-javascript-interop/)**: Blog post about interacting with JavaScript
 * **[andrewmcveigh/cljs-time - GitHub](https://github.com/andrewmcveigh/cljs-time)**: A clj-time inspired date library for clojurescript
 
-
 ## Structuring an application
 * **[Organizing Your Project: a Librarian's Tale](http://www.braveclojure.com/organization/)**: useful chapter from the **[Clojure for the Brave and True](http://www.braveclojure.com/)** book about code organization and namespaces. It's a little long but it still covers the topic well enough.
 * **[stuartsierra/component on GitHub](https://github.com/stuartsierra/component)**: okay, so this one had been on my list for a while. Started watching Stuart's video a few times. Now I finally got around to using it. And all I can say is you really have to take a closer look at this. It makes structuring a larger application so much more straightforward. And the earlier you do, the more pain you save later. Rewriting an existing application is doable, but somewhat painful.
@@ -115,6 +114,7 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **[jonase/kibit on GitHub](https://github.com/jonase/kibit)**: There's a function for that! Static code analyzer for Clojure.
 * **[kovasb/session on GitHub](https://github.com/kovasb/session)**: clojure-based live-coding environment
 * **[jonase/eastwood on GitHub](https://github.com/jonase/eastwood)**: a Clojure lint tool
+* **[AvisoNovate/pretty on GitHub](https://github.com/AvisoNovate/pretty/)**: Library for helping print things prettily, in Clojure - ANSI fonts, formatted exceptions
 
 ## Distributed computing
 * **[Avout](https://github.com/liebke/avout)**: Distributed State in Clojure, provides a distributed implementation of **[Clojure's Software Transactional Memory (STM)](http://clojure.org/refs)**
