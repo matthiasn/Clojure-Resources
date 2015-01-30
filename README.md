@@ -116,6 +116,7 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **[kovasb/session on GitHub](https://github.com/kovasb/session)**: clojure-based live-coding environment
 * **[jonase/eastwood on GitHub](https://github.com/jonase/eastwood)**: a Clojure lint tool
 * **[AvisoNovate/pretty on GitHub](https://github.com/AvisoNovate/pretty/)**: Library for helping print things prettily, in Clojure - ANSI fonts, formatted exceptions
+* **[JonyEpsilon/gorilla-repl on GitHub](https://github.com/JonyEpsilon/gorilla-repl)**: A rich REPL for Clojure in the notebook style. <http://gorilla-repl.org>
 
 ## Distributed computing
 * **[Avout](https://github.com/liebke/avout)**: Distributed State in Clojure, provides a distributed implementation of **[Clojure's Software Transactional Memory (STM)](http://clojure.org/refs)**
