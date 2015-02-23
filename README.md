@@ -36,6 +36,9 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **[killme2008/defun on GitHub](https://github.com/killme2008/defun)**: A macro to define clojure functions with parameter pattern matching just like erlang or elixir. Looks useful.
 * **[AvisoNovate/rook on GitHub](https://github.com/AvisoNovate/rook)**: Sane, smart, fast, Clojure web services
 * **[sjl/metrics-clojure on GitHub](https://github.com/sjl/metrics-clojure)**: A thin façade around Coda Hale's metrics library.
+* **[dakrone/clj-http on GitHub](https://github.com/dakrone/clj-http)**: An idiomatic clojure http client wrapping the apache client.
+* **[http-kit/http-kit on GitHub](https://github.com/http-kit/http-kit)**: http-kit is a minimalist, event-driven, high-performance Clojure HTTP server/client library with WebSocket and asynchronous support
+* **[greglook/puget on GitHub](https://github.com/greglook/puget)**: Canonical Colorizing Clojure Printer
 
 ## Learn the language
 * **[Clojure from the ground up](http://aphyr.com/tags/Clojure-from-the-ground-up)**: very encouraging series of articles for beginners. I also really appreciate the introduction.
