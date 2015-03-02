@@ -81,6 +81,7 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **[Reagent](https://github.com/reagent-project/reagent-core)**: alternative ClojureSCript React wrapper
 * **[ptaoussanis/sente on GitHub](https://github.com/ptaoussanis/sente)**: powerful library for connecting a Clojure server application and a ClojureScript client side application via the WebSockets protocol. I'm using this successfully in my **[BirdWatch](https://github.com/matthiasn/birdwatch/)** project.
 * **[Compojure apps, in the style of Sinatra - Adam Bard, 09/2014](http://adambard.com/blog/sinatra-docs-in-clojure/)**: excellent introduction to Compojure, inspired by Sinatra's getting started guide.
+* **[noprompt/garden on GitHub](https://github.com/noprompt/garden)**: Generate CSS with Clojure
 
 ## core.async
 * **[clojure/core.async on GitHub](https://github.com/clojure/core.async/)**
