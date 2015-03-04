@@ -39,6 +39,7 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **[dakrone/clj-http on GitHub](https://github.com/dakrone/clj-http)**: An idiomatic clojure http client wrapping the apache client.
 * **[http-kit/http-kit on GitHub](https://github.com/http-kit/http-kit)**: http-kit is a minimalist, event-driven, high-performance Clojure HTTP server/client library with WebSocket and asynchronous support
 * **[greglook/puget on GitHub](https://github.com/greglook/puget)**: Canonical Colorizing Clojure Printer
+* **[funcool/buddy on GitHub](https://github.com/funcool/buddy)**: Security library for Clojure
 
 ## Learn the language
 * **[Clojure from the ground up](http://aphyr.com/tags/Clojure-from-the-ground-up)**: very encouraging series of articles for beginners. I also really appreciate the introduction.
