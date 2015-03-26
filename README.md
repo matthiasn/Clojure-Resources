@@ -149,6 +149,7 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **[My Top Clojure Articles - Adam Bard (07/2014)](http://adambard.com/blog/greatest-clojure-hits/)**: haven't read them yet, but I like his other articles, so these are on my reading list. Looks like interesting stuff.
 * **[Building a System in Clojure - Part 1 (09/2014)](http://matthiasnehlsen.com/blog/2014/09/24/Building-Systems-in-Clojure-1/)**: first of my series of articles about building a system in Clojure.
 * **["Good Enough" error handling in Clojure - Adam Bard (05/2013)](http://adambard.com/blog/acceptable-error-handling-in-clojure/)**: I enjoyed this article about error handling.
+* **[Clojure Tutorials on Semaphore Community](https://semaphoreci.com/community/tags/clojure)** - a collection of Clojure related tutorials covering testing, deployment, continuous integration and other topics.
 
 ## Videos
 * **[Talk Transcripts](https://github.com/matthiasn/talk-transcripts)**: transcripts of interesting talks
