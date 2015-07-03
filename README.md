@@ -63,6 +63,7 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **[swannodette/mies - GitHub](https://github.com/swannodette/mies)**: Minimal ClojureScript project template
 * **[ClojureScript: JavaScript Interop - 09/2014](http://www.spacjer.com/blog/2014/09/12/clojurescript-javascript-interop/)**: Blog post about interacting with JavaScript
 * **[andrewmcveigh/cljs-time - GitHub](https://github.com/andrewmcveigh/cljs-time)**: A clj-time inspired date library for clojurescript
+* **[shaunlebron/ClojureScript-Syntax-in-15-minutes on GitHub](https://github.com/shaunlebron/ClojureScript-Syntax-in-15-minutes)**: cljs syntax is simple
 
 ## Structuring an application
 * **[Organizing Your Project: a Librarian's Tale](http://www.braveclojure.com/organization/)**: useful chapter from the **[Clojure for the Brave and True](http://www.braveclojure.com/)** book about code organization and namespaces. It's a little long but it still covers the topic well enough.
