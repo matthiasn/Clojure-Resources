@@ -65,6 +65,9 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **[andrewmcveigh/cljs-time - GitHub](https://github.com/andrewmcveigh/cljs-time)**: A clj-time inspired date library for clojurescript
 * **[shaunlebron/ClojureScript-Syntax-in-15-minutes on GitHub](https://github.com/shaunlebron/ClojureScript-Syntax-in-15-minutes)**: cljs syntax is simple
 
+## ClojureScript libraries
+* **[lbradstreet/cljs-uuid-utils - GitHub](https://github.com/lbradstreet/cljs-uuid-utils)**: Micro lib with ClojureScript implementation of a random, type 4 UUID generator compatible with cljs.core/UUID
+
 ## Structuring an application
 * **[Organizing Your Project: a Librarian's Tale](http://www.braveclojure.com/organization/)**: useful chapter from the **[Clojure for the Brave and True](http://www.braveclojure.com/)** book about code organization and namespaces. It's a little long but it still covers the topic well enough.
 * **[stuartsierra/component on GitHub](https://github.com/stuartsierra/component)**: okay, so this one had been on my list for a while. Started watching Stuart's video a few times. Now I finally got around to using it. And all I can say is you really have to take a closer look at this. It makes structuring a larger application so much more straightforward. And the earlier you do, the more pain you save later. Rewriting an existing application is doable, but somewhat painful.
