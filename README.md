@@ -128,6 +128,7 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **[jonase/eastwood on GitHub](https://github.com/jonase/eastwood)**: a Clojure lint tool
 * **[AvisoNovate/pretty on GitHub](https://github.com/AvisoNovate/pretty/)**: Library for helping print things prettily, in Clojure - ANSI fonts, formatted exceptions
 * **[JonyEpsilon/gorilla-repl on GitHub](https://github.com/JonyEpsilon/gorilla-repl)**: A rich REPL for Clojure in the notebook style. <http://gorilla-repl.org>
+* **[dakrone/lein-bikeshed on GitHub](https://github.com/dakrone/lein-bikeshed): A Leiningen plugin designed to tell you your code is bad, and that you should feel bad
 
 ## Distributed computing
 * **[Avout](https://github.com/liebke/avout)**: Distributed State in Clojure, provides a distributed implementation of **[Clojure's Software Transactional Memory (STM)](http://clojure.org/refs)**
