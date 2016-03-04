@@ -65,6 +65,7 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **[ClojureScript: JavaScript Interop - 09/2014](http://www.spacjer.com/blog/2014/09/12/clojurescript-javascript-interop/)**: Blog post about interacting with JavaScript
 * **[andrewmcveigh/cljs-time - GitHub](https://github.com/andrewmcveigh/cljs-time)**: A clj-time inspired date library for clojurescript
 * **[shaunlebron/ClojureScript-Syntax-in-15-minutes on GitHub](https://github.com/shaunlebron/ClojureScript-Syntax-in-15-minutes)**: cljs syntax is simple
+* **[bensu/doo on GitHub](https://github.com/bensu/doo)**: finally a pleasant experience for running tests on the JavaScript side
 
 ## ClojureScript libraries
 * **[lbradstreet/cljs-uuid-utils - GitHub](https://github.com/lbradstreet/cljs-uuid-utils)**: Micro lib with ClojureScript implementation of a random, type 4 UUID generator compatible with cljs.core/UUID
