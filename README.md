@@ -41,6 +41,7 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **[greglook/puget on GitHub](https://github.com/greglook/puget)**: Canonical Colorizing Clojure Printer
 * **[funcool/buddy on GitHub](https://github.com/funcool/buddy)**: Security library for Clojure
 * **[mpenet/jet on GitHub](https://github.com/mpenet/jet)**: Jetty9 ring server adapter with WebSocket support via core.async and Jetty9 based HTTP & WebSocket clients (jvm based, no cljs)
+* **[raines/fs on GitHub](https://github.com/Raynes/fs)**: useful library for manipulating files and working with the filesystem
 
 ## Learn the language
 * **[Clojure from the ground up](http://aphyr.com/tags/Clojure-from-the-ground-up)**: very encouraging series of articles for beginners. I also really appreciate the introduction.
