@@ -70,6 +70,7 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 
 ## ClojureScript libraries
 * **[lbradstreet/cljs-uuid-utils - GitHub](https://github.com/lbradstreet/cljs-uuid-utils)**: Micro lib with ClojureScript implementation of a random, type 4 UUID generator compatible with cljs.core/UUID
+* **[yogthos/markdown-clj on GitHub](https://github.com/yogthos/markdown-clj)**: library for rendering markdown into HTML
 
 ## Structuring an application
 * **[Organizing Your Project: a Librarian's Tale](http://www.braveclojure.com/organization/)**: useful chapter from the **[Clojure for the Brave and True](http://www.braveclojure.com/)** book about code organization and namespaces. It's a little long but it still covers the topic well enough.
