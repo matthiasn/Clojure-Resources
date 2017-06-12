@@ -83,6 +83,7 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **[Building a System in Clojure](https://leanpub.com/building-a-system-in-clojure)**: book by the maintainer of this repository about structuring complex applications.
  
 ## Web development / Om
+* **[Keechma](https://keechma.com/)**: a pluggable micro framework for Reagent
 * **[weavejester/compojure on GitHub](https://github.com/weavejester/compojure)**: a truly concise routing library for Clojure web applications.
 * **[Luminus](http://www.luminusweb.net/)**: a Clojure micro-framework in style of Flask/Sinatra
 * **[swannodette/om - GitHub](https://github.com/swannodette/om)**: a **ClojureScript** library on top of Facebook's **[React library](http://facebook.github.io/react/)**. React and ClojureScript are a great match as React is particularly well suited for rendering **immutable** data structures.
