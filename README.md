@@ -193,6 +193,7 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 
 ## Podcasts
 * **[The Cognicast](http://blog.cognitect.com/cognicast/)**: podcast by **[Cognitect](http://cognitect.com)**, the guys behind Clojure.
+* **[defn](https://defn.audio)**: the number one vegetarian Clojure podcast by Vijay Kiran and Ray McDermott. Casual, fun and NSFW interviews with Clojure luminaries.
 * **[Functional Geekery](http://www.functionalgeekery.com)**: podcast on all things functional programming, sometimes featuring Clojure as well.
 
 ## Comparisons with other languages
