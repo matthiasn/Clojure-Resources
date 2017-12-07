@@ -44,6 +44,7 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **[mpenet/jet on GitHub](https://github.com/mpenet/jet)**: Jetty9 ring server adapter with WebSocket support via core.async and Jetty9 based HTTP & WebSocket clients (jvm based, no cljs)
 * **[raines/fs on GitHub](https://github.com/Raynes/fs)**: useful library for manipulating files and working with the filesystem
 * **[clj.qrgen on GitHub](https://github.com/killme2008/clj.qrgen)**: generate QR code, for example for serving code as PNG file in ring handler
+* **[eggsyntax/datawalk on GitHub](https://github.com/eggsyntax/datawalk)**: Interactively explore complex data structures at the REPL with minimum keystrokes
 
 ## Learn the language
 * **[Clojure from the ground up](http://aphyr.com/tags/Clojure-from-the-ground-up)**: very encouraging series of articles for beginners. I also really appreciate the introduction.
