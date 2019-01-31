@@ -164,6 +164,7 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 * **["Good Enough" error handling in Clojure - Adam Bard (05/2013)](http://adambard.com/blog/acceptable-error-handling-in-clojure/)**: I enjoyed this article about error handling.
 * **[Clojure Tutorials on Semaphore Community](https://semaphoreci.com/community/tags/clojure)** - a collection of Clojure related tutorials covering testing, deployment, continuous integration and other topics.
 * **[API Authentication with Liberator and Friend](http://sritchie.github.io/2014/01/17/api-authentication-with-liberator-and-friend/)**: useful blog post when you have API authentication needs
+* **[Introduction to Asynchronous Programming in Clojure](http://www.bradcypert.com/clojure-async/)**: A simple introduction to channels and asyncronous Clojure
 
 ## Videos
 * **[Talk Transcripts](https://github.com/matthiasn/talk-transcripts)**: transcripts of interesting talks
