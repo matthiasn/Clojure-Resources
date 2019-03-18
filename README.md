@@ -56,6 +56,7 @@ This is a compilation of links and resources for learning about **Clojure**, **C
 
 ## ClojureScript
 * **[clojure/clojurescript - GitHub](https://github.com/clojure/clojurescript)**
+* **[shadow-cljs](https://github.com/thheller/shadow-cljs)**: the only sane way to build ClojureScript 
 * **[ClojureScript Google Group](https://groups.google.com/forum/#!forum/clojurescript)**
 * **[ClojureScript-in-ClojureScript REPL](http://clojurescript.net)**
 * **[ClojureScript One](http://clojurescriptone.com)**
